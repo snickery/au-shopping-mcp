@@ -1,6 +1,6 @@
 [project]
 name = "au-shopping-mcp"
-version = "0.1.1"
+version = "0.1.2"
 description = "MCP server for shopping at Australian online stores: product search, detail and price comparison across 26 retailers (Bunnings, JB Hi-Fi, Officeworks, Costco, ...) plus AliExpress"
 readme = "README.md"
 license = "MIT"
@@ -21,7 +21,9 @@ dependencies = [
     "mcp[cli]>=1.0.0",
     "httpx[http2]>=0.27.0",
     "pydantic>=2.7",
-    "selectolax>=0.3.21",
+    # <1: selectolax 1.0 removed the Modest backend (selectolax.parser) that the
+    # extractors use; moving to selectolax.lexbor is a separate, tested change.
+    "selectolax>=0.3.21,<1",
     "diskcache>=5.6",
     # Must match the tag of the mcr.microsoft.com/playwright/python base image
     # in the Containerfile, which ships the matching Chromium build.

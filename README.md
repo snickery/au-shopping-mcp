@@ -15,16 +15,20 @@ Check each retailer's terms before relying on it.
 ## Install
 
 ```bash
-uvx au-shopping-mcp --stdio                 # or: pip install au-shopping-mcp
-uvx --from au-shopping-mcp playwright install chromium   # only for sites that need the browser tier
+uvx --python 3.12 au-shopping-mcp --stdio            # Python 3.12 only, see below
+uvx --python 3.12 --from au-shopping-mcp playwright install chromium   # only for sites that need the browser tier
 ```
 
 Claude Desktop / Claude Code (stdio):
 
 ```json
-{"mcpServers": {"au-shopping": {"command": "uvx", "args": ["au-shopping-mcp", "--stdio"],
+{"mcpServers": {"au-shopping": {"command": "uvx", "args": ["--python", "3.12", "au-shopping-mcp", "--stdio"],
   "env": {"SITES": "all"}}}}
 ```
+
+Python 3.12 is required for now: the pinned Playwright (it must match the container's base image)
+needs greenlet 3.0.x, which does not build on 3.13+, and uvx does not pick an older
+interpreter by itself.
 
 ## Tools (per site)
 

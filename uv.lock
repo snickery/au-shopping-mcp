@@ -44,7 +44,7 @@ wheels = [
 
 [[package]]
 name = "au-shopping-mcp"
-version = "0.1.1"
+version = "0.1.2"
 source = { editable = "." }
 dependencies = [
     { name = "diskcache" },
@@ -72,7 +72,7 @@ requires-dist = [
     { name = "pydantic", specifier = ">=2.7" },
     { name = "pytest", marker = "extra == 'test'", specifier = ">=8.0" },
     { name = "pytest-asyncio", marker = "extra == 'test'", specifier = ">=0.23" },
-    { name = "selectolax", specifier = ">=0.3.21" },
+    { name = "selectolax", specifier = ">=0.3.21,<1" },
 ]
 provides-extras = ["test"]
 
