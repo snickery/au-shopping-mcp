@@ -1,19 +1,18 @@
 [project]
 name = "au-shopping-mcp"
-version = "0.1.2"
+version = "0.2.0"
 description = "MCP server for shopping at Australian online stores: product search, detail and price comparison across 26 retailers (Bunnings, JB Hi-Fi, Officeworks, Costco, ...) plus AliExpress"
 readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE"]
 authors = [{ name = "Nick Engel", email = "nick@engel.au" }]
-# <3.13: the playwright==1.47.0 pin (it must match the Containerfile base image)
-# needs greenlet 3.0.x, which does not build on 3.13+.
-requires-python = ">=3.12,<3.13"
+requires-python = ">=3.12"
 keywords = ["mcp", "model-context-protocol", "shopping", "australia", "price-comparison", "bunnings", "retail"]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
     "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
 ]
 dependencies = [
     # The kit pins the MCP SDK range (mcp<2) for every server built on it.
@@ -27,7 +26,7 @@ dependencies = [
     "diskcache>=5.6",
     # Must match the tag of the mcr.microsoft.com/playwright/python base image
     # in the Containerfile, which ships the matching Chromium build.
-    "playwright==1.47.0",
+    "playwright==1.64.1",
 ]
 
 [project.urls]

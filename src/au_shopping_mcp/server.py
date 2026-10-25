@@ -83,14 +83,20 @@ def _offsite(adapter: SiteAdapter, url: str | None) -> dict[str, Any] | None:
     return None
 
 
+def _published_doc(doc: str) -> str:
+    """A docstring as a tool description: first line, then continuation lines indented 4."""
+    first, *rest = inspect.cleandoc(doc).splitlines()
+    return first + "".join("\n" + ("    " + line if line else "") for line in rest)
+
+
 def _logged_tool(mcp: FastMCP, adapter: SiteAdapter, name: str):
     """mcp.tool(name=...) plus the request log line and error shaping for one site's tool."""
 
     def decorator(fn):
-        # FastMCP publishes __doc__ verbatim. These tools are nested inside register_site, one
-        # level deeper than the module-level functions they replaced, so drop the extra indent
-        # to keep every description byte-identical to what clients already have.
-        register = mcp.tool(name=name, description=fn.__doc__.replace("\n        ", "\n    "))
+        # FastMCP publishes __doc__ verbatim. Publish one shape on every interpreter (Python
+        # 3.13 strips docstring indentation at compile time, 3.12 doesn't): continuation lines
+        # indented 4 spaces, which is what clients cached from the original module-level tools.
+        register = mcp.tool(name=name, description=_published_doc(fn.__doc__))
 
         @functools.wraps(fn)
         async def wrapper(*args, **kwargs):

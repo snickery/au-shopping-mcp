@@ -2,7 +2,7 @@
 # match the playwright== pin in pyproject.toml. Larger than the uv-slim base the
 # rest of the collection uses, but it's what makes tiers 2-3 of the fetch
 # ladder work, and it's the same image for every site adapter.
-FROM mcr.microsoft.com/playwright/python:v1.47.0-noble
+FROM mcr.microsoft.com/playwright/python:v1.64.1-noble
 
 COPY --from=ghcr.io/astral-sh/uv:latest /uv /uvx /bin/
 
