@@ -1,0 +1,2464 @@
+{
+ "headers": {
+  "x-wp-total": "11",
+  "x-wp-totalpages": "1"
+ },
+ "body": [
+  {
+   "id": 30663,
+   "name": "MultiBlock DC Selectable Output Boost LED Driver",
+   "slug": "multiblock-dc-selectable-output-boost-led-driver",
+   "parent": 0,
+   "type": "simple",
+   "variation": "",
+   "permalink": "https://www.cutter.com.au/product/multiblock-dc-selectable-output-boost-led-driver/",
+   "sku": "",
+   "short_description": "<p>LuxDrive\u2122 N022 MultiBlock LED boost driver, featuring selectable output currents, high efficiency up to 92%, and a compact design. Perfect for dynamic lighting applications, this versatile driver ensures reliable performance with simple switch controls and wide input voltage compatibility. Ideal for architectural, automotive, and general LED lighting solutions.</p>",
+   "description": "<h3>LuxDrive\u2122 N022 MultiBlock Selectable Current LED Boost Driver</h3>\n<p><strong>Unlock Versatile LED Performance with the LuxDrive\u2122 N022 MultiBlock</strong></p>\n<hr />\n<h4><strong>Product Overview</strong></h4>\n<p>The LuxDrive\u2122 MultiBlock DC Selectable Output Boost LED Driver is an innovative LED boost driver designed for applications requiring adjustable output currents. This cutting-edge driver allows users to select and modify the drive current on-the-fly using built-in switches, making it ideal for dynamic lighting environments where different LED currents are needed. Whether you&#8217;re designing a complex lighting system or a simple LED application, the N022 MultiBlock provides the flexibility and reliability you need.</p>\n<h4><strong>Key Features:</strong></h4>\n<ul>\n<li><strong>Selectable Output Current:</strong> Choose from seven different output currents (120mA, 240mA, 350mA, 500mA, 700mA, 1000mA, 1200mA) using simple switch settings on the unit.</li>\n<li><strong>Efficient Power Conversion:</strong> With up to 92% efficiency, the N022 ensures minimal energy loss and optimal performance.</li>\n<li><strong>Wide Input Voltage Range:</strong> Operates within a 12-24VDC input range, making it compatible with various power sources.</li>\n<li><strong>Compact and Durable:</strong> Featuring a small form factor (1.57&#8243; x 1.57&#8243; x 0.51&#8243;) and rugged design, this driver is built to withstand harsh conditions, with an operating temperature range from -20\u00b0C to 80\u00b0C.</li>\n<li><strong>User-Friendly Connectivity:</strong> Equipped with 6\u201d 18 gauge wires for easy and secure connections, ensuring hassle-free installation and operation.</li>\n</ul>\n<h4><strong>Advanced Operation</strong></h4>\n<p>The N022 MultiBlock is designed for simplicity and ease of use. Adjusting the output current is as easy as flipping a switch, and the unit can be reconfigured during standard operation without the need for power cycling. This flexibility makes it an excellent choice for applications where different lighting intensities are required over time.</p>\n<p><strong>Important:</strong> To prevent damage, ensure the LED load is connected before applying power to the driver.</p>\n<h4><strong>Technical Specifications: MultiBlock DC Selectable Output Boost LED Driver</strong></h4>\n<ul>\n<li><strong>Input Voltage:</strong> 12-24VDC</li>\n<li><strong>Output Voltage:</strong> Matches input voltage, up to 24VDC</li>\n<li><strong>Quiescent Current:</strong> 180\u00b5A (typical)</li>\n<li><strong>Environmental Tolerance:</strong> Operating temperature from -20\u00b0C to 80\u00b0C, storage temperature from -40\u00b0C to 80\u00b0C</li>\n<li><strong>Compliance:</strong> RoHS 3 (EU 2015/863) compliant</li>\n</ul>\n<h4><strong>Applications</strong></h4>\n<p>The N022 MultiBlock is perfect for a variety of applications, including but not limited to:</p>\n<ul>\n<li>Architectural lighting</li>\n<li>Retail display lighting</li>\n<li>Automotive lighting</li>\n<li>General purpose LED lighting systems</li>\n</ul>\n<h4><strong>Ordering Information</strong></h4>\n<p>The LuxDrive\u2122 N022 MultiBlock is available in multiple configurations to suit your project needs. Refer to the product family part numbers to select the appropriate version for your application.</p>\n<hr />\n<p><strong>Explore the Flexibility of LuxDrive\u2122 N022 MultiBlock</strong></p>\n<p>With its selectable current settings and robust design, the LuxDrive\u2122 N022 MultiBlock is the ideal solution for versatile LED applications. Whether you need consistent lighting or adaptable output, this driver delivers unmatched performance and reliability.</p>\n<p><a href=\"http://leddynamics.com/wp-content/uploads/2024/04/0N022_1.0.pdf\">Datasheet</a><a href=\"http://leddynamics.com/wp-content/uploads/2024/07/0N009_1.0.pdf\"><img class=\"wp-image-15675 alignleft\" src=\"https://www.cutter.com.au/wp-content/uploads/2019/08/pdficon.jpg\" alt=\"\" width=\"23\" height=\"23\" /></a></p>",
+   "on_sale": false,
+   "prices": {
+    "price": "5295",
+    "regular_price": "5295",
+    "sale_price": "5295",
+    "price_range": null,
+    "currency_code": "AUD",
+    "currency_symbol": "$",
+    "currency_minor_unit": 2,
+    "currency_decimal_separator": ".",
+    "currency_thousand_separator": ",",
+    "currency_prefix": "$",
+    "currency_suffix": ""
+   },
+   "price_html": "<span class=\"woocs_price_code\" data-currency=\"\" data-redraw-id=\"6ab13079a6015\" data-product-id=\"30663\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#036;</span>52.95</span> <small class=\"woocommerce-price-suffix\">EX GST</small></span>",
+   "average_rating": "0",
+   "review_count": 0,
+   "images": [
+    {
+     "id": 31206,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock3.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock3-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock3.jpg 1024w, https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock3-397x400.jpg 397w, https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock3-793x800.jpg 793w, https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock3-768x774.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock3-600x605.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock3-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock3-32x32.jpg 32w",
+     "sizes": "(max-width: 1024px) 100vw, 1024px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock3-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock3-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock3-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock3-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock3-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock3-32x32.jpg 32w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "multiblock3",
+     "alt": "MultiBlock DC Selectable Output Boost LED Driver"
+    },
+    {
+     "id": 30673,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock1.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock1-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock1.jpg 1144w, https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock1-447x400.jpg 447w, https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock1-894x800.jpg 894w, https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock1-768x687.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock1-600x537.jpg 600w",
+     "sizes": "(max-width: 1144px) 100vw, 1144px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock1-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock1-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock1-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2024/08/multiblock1-32x32.jpg 32w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "multiblock1",
+     "alt": "MultiBlock DC Selectable Output Boost LED Driver"
+    }
+   ],
+   "categories": [
+    {
+     "id": 238,
+     "name": "Boost",
+     "slug": "boost-led-driver-luxdrive-led-drivers",
+     "link": "https://www.cutter.com.au/product-category/led-drivers/luxdrive-led-drivers/boost-led-driver-luxdrive-led-drivers/"
+    }
+   ],
+   "tags": [
+    {
+     "id": 3963,
+     "name": "adjustable LED current",
+     "slug": "adjustable-led-current",
+     "link": "https://www.cutter.com.au/product-tag/adjustable-led-current/"
+    },
+    {
+     "id": 3966,
+     "name": "architectural LED lighting",
+     "slug": "architectural-led-lighting",
+     "link": "https://www.cutter.com.au/product-tag/architectural-led-lighting/"
+    },
+    {
+     "id": 3943,
+     "name": "automotive LED lighting",
+     "slug": "automotive-led-lighting",
+     "link": "https://www.cutter.com.au/product-tag/automotive-led-lighting/"
+    },
+    {
+     "id": 3962,
+     "name": "boost LED driver",
+     "slug": "boost-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/boost-led-driver/"
+    },
+    {
+     "id": 3964,
+     "name": "dynamic LED control",
+     "slug": "dynamic-led-control",
+     "link": "https://www.cutter.com.au/product-tag/dynamic-led-control/"
+    },
+    {
+     "id": 3954,
+     "name": "high-efficiency LED driver",
+     "slug": "high-efficiency-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/high-efficiency-led-driver/"
+    },
+    {
+     "id": 3967,
+     "name": "high-performance LED driver.",
+     "slug": "high-performance-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/high-performance-led-driver/"
+    },
+    {
+     "id": 3254,
+     "name": "LED lighting solutions",
+     "slug": "led-lighting-solutions",
+     "link": "https://www.cutter.com.au/product-tag/led-lighting-solutions/"
+    },
+    {
+     "id": 3959,
+     "name": "LuxDrive N022",
+     "slug": "luxdrive-n022",
+     "link": "https://www.cutter.com.au/product-tag/luxdrive-n022/"
+    },
+    {
+     "id": 3960,
+     "name": "MultiBlock LED driver",
+     "slug": "multiblock-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/multiblock-led-driver/"
+    },
+    {
+     "id": 3965,
+     "name": "RoHS compliant LED driver",
+     "slug": "rohs-compliant-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/rohs-compliant-led-driver/"
+    },
+    {
+     "id": 3961,
+     "name": "selectable current LED driver",
+     "slug": "selectable-current-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/selectable-current-led-driver/"
+    }
+   ],
+   "brands": [],
+   "attributes": [
+    {
+     "id": 8,
+     "name": "Drive Current",
+     "taxonomy": "pa_drive-current",
+     "has_variations": true,
+     "terms": [
+      {
+       "id": 3958,
+       "name": "Selectable 120ma to 1200ma",
+       "slug": "selectable-120ma-to-1200ma"
+      }
+     ]
+    },
+    {
+     "id": 57,
+     "name": "Led Driver Manufacturer",
+     "taxonomy": "pa_led-driver-manfacturer",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1992,
+       "name": "Luxdrive",
+       "slug": "luxdrive"
+      }
+     ]
+    },
+    {
+     "id": 45,
+     "name": "Termination Type",
+     "taxonomy": "pa_termination-type",
+     "has_variations": true,
+     "terms": [
+      {
+       "id": 1540,
+       "name": "Wired",
+       "slug": "wired"
+      }
+     ]
+    }
+   ],
+   "variations": [],
+   "grouped_products": [],
+   "has_options": false,
+   "is_purchasable": true,
+   "is_in_stock": true,
+   "is_on_backorder": false,
+   "low_stock_remaining": null,
+   "stock_availability": {
+    "text": "",
+    "class": "in-stock"
+   },
+   "sold_individually": false,
+   "weight": "0.042",
+   "dimensions": {
+    "length": "40",
+    "width": "40",
+    "height": "12"
+   },
+   "formatted_weight": "0.042 kg",
+   "formatted_dimensions": "40 \u00d7 40 \u00d7 12 mm",
+   "add_to_cart": {
+    "text": "Add to cart",
+    "description": "Add to cart: &ldquo;MultiBlock DC Selectable Output Boost LED Driver&rdquo;",
+    "url": "/wp-json/wc/store/v1/products?search=led+driver&#038;page=1&#038;per_page=24&#038;add-to-cart=30663",
+    "single_text": "Add to cart",
+    "minimum": 1,
+    "maximum": 9999,
+    "multiple_of": 1
+   },
+   "is_password_protected": false,
+   "extensions": {},
+   "_links": {
+    "self": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products/30663",
+      "targetHints": {
+       "allow": [
+        "GET"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products"
+     }
+    ],
+    "upsells": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?include=2168,2173,2164,16151"
+     }
+    ],
+    "cross_sells": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?include=2168,2173,2164,16151"
+     }
+    ],
+    "related": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?related=30663&per_page=10"
+     }
+    ]
+   }
+  },
+  {
+   "id": 30384,
+   "name": "PWM-120-24 Dimmable Led Driver",
+   "slug": "pwm-120-24-dimmable-led-driver",
+   "parent": 0,
+   "type": "simple",
+   "variation": "",
+   "permalink": "https://www.cutter.com.au/product/pwm-120-24-dimmable-led-driver/",
+   "sku": "PWM-120-24 Dimmable Led Driver",
+   "short_description": "<p>120 watt Led Driver, IP67, dimmable. Fly Lead Primary or AU Plug, RCM Approved</p>",
+   "description": "<div id=\"documents-Datasheet\" class=\"tab-item clearfix\">\n<h3>Introducing the PWM-120-24 Dimmable Led Driver</h3>\n<p>Discover the PWM-120-24 Dimmable Led Driver, a cutting-edge solution from MEAN WELL designed to elevate your lighting systems to new heights of reliability and energy efficiency. Engineered with precision, this driver delivers a robust 90W Pulse Width Modulation (PWM) output, ensuring optimal performance for a wide range of LED lighting applications.</p>\n<h4>Key Features:</h4>\n<ul>\n<li><strong>Manufacturer:</strong> MEAN WELL</li>\n<li><strong>Package:</strong> Box</li>\n<li><strong>Product Status:</strong> Active</li>\n<li><strong>Type:</strong> Constant Voltage</li>\n<li><strong>Topology:</strong> AC DC Converter</li>\n<li><strong>Number of Outputs:</strong> 1</li>\n<li><strong>Voltage &#8211; Input (Min):</strong> 90VAC</li>\n<li><strong>Voltage &#8211; Input (Max):</strong> 305VAC</li>\n<li><strong>Voltage &#8211; Output:</strong> 24V</li>\n<li><strong>Current &#8211; Output (Max):</strong> 5A</li>\n<li><strong>Power (Watts):</strong> 120 W</li>\n<li><strong>Voltage &#8211; Isolation:</strong> 3.75 kV</li>\n<li><strong>Dimming:</strong> Analog, PWM</li>\n<li><strong>Features:</strong> OCP, OTP, OVP, SCP</li>\n<li><strong>Ratings:</strong> IP67</li>\n<li><strong>Operating Temperature:</strong> -40\u00b0C ~ 85\u00b0C</li>\n<li><strong>Efficiency:</strong> 89%</li>\n<li><strong>Termination Style:</strong> Wire Leads (Available with AU Plug)</li>\n<li><strong>Size / Dimension:</strong> 191*63*37.5mm (L*W*H)</li>\n<li><strong>Approval Agency:</strong> CB, CCC, CE, cURus, ENEC</li>\n<li><strong>Mounting Type:</strong> Chassis Mount</li>\n</ul>\n<h4>Superior Performance and Safety:</h4>\n<p>With its compact box package design and active constant voltage type, the PWM-120-24 driver ensures stable power delivery with maximum efficiency. Enjoy peace of mind with built-in safety features including Over-Current Protection (OCP), Over-Temperature Protection (OTP), Over-Voltage Protection (OVP), and Short-Circuit Protection (SCP).</p>\n<h4>Flexible Dimming Options:</h4>\n<p>The PWM-120-24 driver supports both analog and PWM dimming, offering versatile control over light intensity to suit your specific needs.</p>\n<h4>Wide Compatibility and Easy Installation:</h4>\n<p>Featuring a wide input voltage range from 90VAC to 305VAC and high isolation voltage of 3.75kV, this driver is compatible with various setups and ensures enhanced safety. Wire lead termination and optional AU plug provide hassle-free installation and flexibility.</p>\n<h4>Certified Quality and Reliability:</h4>\n<p>Certified by reputable approval agencies including CB, CCC, CE, cURus, and ENEC, the PWM-120-24 driver meets stringent quality and safety standards, guaranteeing superior performance and reliability for your lighting projects.</p>\n<p>Illuminate your space with confidence using the PWM-120-24 Dimmable LED Driver from MEAN WELL, the trusted choice for exceptional lighting performance and efficiency.</p>\n<p><span style=\"font-size: 23.04px;color: #333333\">Datasheet</span></p>\n<p><span class=\"rd-link-img\"><img class=\"fr-fin fr-tag\" src=\"https://www.meanwell-web.com/content/files/icons/pdf.png\" alt=\"Datasheet\" /></span><a href=\"https://www.meanwell.com/webapp/product/search.aspx?prod=PWM-120(DA)\"><span class=\"rd-link-text\">Datasheet</span></a></p>\n</div>\n<p>&nbsp;</p>",
+   "on_sale": false,
+   "prices": {
+    "price": "16999",
+    "regular_price": "16999",
+    "sale_price": "16999",
+    "price_range": null,
+    "currency_code": "AUD",
+    "currency_symbol": "$",
+    "currency_minor_unit": 2,
+    "currency_decimal_separator": ".",
+    "currency_thousand_separator": ",",
+    "currency_prefix": "$",
+    "currency_suffix": ""
+   },
+   "price_html": "<span class=\"woocs_price_code\" data-currency=\"\" data-redraw-id=\"6ab13079b6eb3\" data-product-id=\"30384\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#036;</span>169.99</span> <small class=\"woocommerce-price-suffix\">EX GST</small></span>",
+   "average_rating": "0",
+   "review_count": 0,
+   "images": [
+    {
+     "id": 28039,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602.jpg 1282w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-503x400.jpg 503w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-1005x800.jpg 1005w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-768x611.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-600x477.jpg 600w",
+     "sizes": "(max-width: 1282px) 100vw, 1282px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-32x32.jpg 32w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "pwm-602",
+     "alt": "PWM-120-24 Dimmable Led Driver"
+    },
+    {
+     "id": 28539,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug.jpg 800w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-32x32.jpg 32w",
+     "sizes": "(max-width: 800px) 100vw, 800px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-32x32.jpg 32w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug.jpg 800w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "pwm60auplug",
+     "alt": "PWM-120-24 Dimmable Led Driver"
+    }
+   ],
+   "categories": [
+    {
+     "id": 22,
+     "name": "Grow Light Drivers &amp; Controllers",
+     "slug": "growlight-drivers-controllers",
+     "link": "https://www.cutter.com.au/product-category/diy-led-kits/horticulture-lighting/growlight-drivers-controllers/"
+    },
+    {
+     "id": 368,
+     "name": "Constant Voltage",
+     "slug": "constant-voltage-ac-dc-led-driver-meanwell-led-drivers",
+     "link": "https://www.cutter.com.au/product-category/led-drivers/meanwell-led-drivers/ac-dc-led-driver-meanwell-led-drivers/constant-voltage-ac-dc-led-driver-meanwell-led-drivers/"
+    },
+    {
+     "id": 2505,
+     "name": "Sauna Led Strips",
+     "slug": "sauna-led-strips",
+     "link": "https://www.cutter.com.au/product-category/led-emitter/flexible-led-ribbon/standard-led-strip/sauna-led-strips/"
+    }
+   ],
+   "tags": [
+    {
+     "id": 3489,
+     "name": "AC-DC converter",
+     "slug": "ac-dc-converter",
+     "link": "https://www.cutter.com.au/product-tag/ac-dc-converter/"
+    },
+    {
+     "id": 3486,
+     "name": "constant voltage",
+     "slug": "constant-voltage",
+     "link": "https://www.cutter.com.au/product-tag/constant-voltage/"
+    },
+    {
+     "id": 3657,
+     "name": "Dimmable",
+     "slug": "dimmable",
+     "link": "https://www.cutter.com.au/product-tag/dimmable/"
+    },
+    {
+     "id": 3335,
+     "name": "energy efficiency",
+     "slug": "energy-efficiency",
+     "link": "https://www.cutter.com.au/product-tag/energy-efficiency/"
+    },
+    {
+     "id": 835,
+     "name": "LED Driver",
+     "slug": "led-driver",
+     "link": "https://www.cutter.com.au/product-tag/led-driver/"
+    },
+    {
+     "id": 3658,
+     "name": "Lighting Solution",
+     "slug": "lighting-solution",
+     "link": "https://www.cutter.com.au/product-tag/lighting-solution/"
+    },
+    {
+     "id": 3656,
+     "name": "MEAN WELL",
+     "slug": "mean-well",
+     "link": "https://www.cutter.com.au/product-tag/mean-well/"
+    },
+    {
+     "id": 560,
+     "name": "meanwell",
+     "slug": "meanwell",
+     "link": "https://www.cutter.com.au/product-tag/meanwell/"
+    },
+    {
+     "id": 687,
+     "name": "PWM",
+     "slug": "pwm",
+     "link": "https://www.cutter.com.au/product-tag/pwm/"
+    }
+   ],
+   "brands": [],
+   "attributes": [
+    {
+     "id": 53,
+     "name": "Dimming Version",
+     "taxonomy": "pa_dimming-version",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1704,
+       "name": "1-10V",
+       "slug": "1-10v"
+      },
+      {
+       "id": 1708,
+       "name": "Resistive(Pot)",
+       "slug": "resistive-pot"
+      }
+     ]
+    },
+    {
+     "id": 44,
+     "name": "Power",
+     "taxonomy": "pa_led-power",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1764,
+       "name": "120 Watts",
+       "slug": "120-watts"
+      }
+     ]
+    },
+    {
+     "id": 57,
+     "name": "Led Driver Manufacturer",
+     "taxonomy": "pa_led-driver-manfacturer",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1993,
+       "name": "Meanwell",
+       "slug": "meanwell"
+      }
+     ]
+    }
+   ],
+   "variations": [],
+   "grouped_products": [],
+   "has_options": false,
+   "is_purchasable": true,
+   "is_in_stock": true,
+   "is_on_backorder": false,
+   "low_stock_remaining": null,
+   "stock_availability": {
+    "text": "",
+    "class": "in-stock"
+   },
+   "sold_individually": false,
+   "weight": "1.35",
+   "dimensions": {
+    "length": "191",
+    "width": "63",
+    "height": "37.5"
+   },
+   "formatted_weight": "1.35 kg",
+   "formatted_dimensions": "191 \u00d7 63 \u00d7 37.5 mm",
+   "add_to_cart": {
+    "text": "Add to cart",
+    "description": "Add to cart: &ldquo;PWM-120-24 Dimmable Led Driver&rdquo;",
+    "url": "/wp-json/wc/store/v1/products?search=led+driver&#038;page=1&#038;per_page=24&#038;add-to-cart=30384",
+    "single_text": "Add to cart",
+    "minimum": 1,
+    "maximum": 9999,
+    "multiple_of": 1
+   },
+   "is_password_protected": false,
+   "extensions": {},
+   "_links": {
+    "self": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products/30384",
+      "targetHints": {
+       "allow": [
+        "GET"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products"
+     }
+    ],
+    "upsells": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?include=29313,8632,16151,2164,2173,2168"
+     }
+    ],
+    "cross_sells": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?include=29313,8632,16151,2164,2173,2168"
+     }
+    ],
+    "related": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?related=30384&per_page=10"
+     }
+    ]
+   }
+  },
+  {
+   "id": 30383,
+   "name": "PWM-90-24 Dimmable Led Driver",
+   "slug": "pwm-90-24-dimmable-led-driver",
+   "parent": 0,
+   "type": "simple",
+   "variation": "",
+   "permalink": "https://www.cutter.com.au/product/pwm-90-24-dimmable-led-driver/",
+   "sku": "PWM-90-24 Dimmable Led Driver",
+   "short_description": "<p>90 watt Led Driver, IP67, dimmable. Fly Lead Primary or AU Plug, RCM Approved</p>",
+   "description": "<div id=\"documents-Datasheet\" class=\"tab-item clearfix\">\n<h3>Introducing the PWM-90-24 Dimmable Led Driver</h3>\n<p>Discover the PWM-90-24 Dimmable Led Driver, a cutting-edge solution from MEAN WELL designed to elevate your lighting systems to new heights of reliability and energy efficiency. Engineered with precision, this driver delivers a robust 90W Pulse Width Modulation (PWM) output, ensuring optimal performance for a wide range of LED lighting applications.</p>\n<h4>Key Features:</h4>\n<ul>\n<li><strong>Manufacturer:</strong> MEAN WELL</li>\n<li><strong>Package:</strong> Box</li>\n<li><strong>Product Status:</strong> Active</li>\n<li><strong>Type:</strong> Constant Voltage</li>\n<li><strong>Topology:</strong> AC DC Converter</li>\n<li><strong>Number of Outputs:</strong> 1</li>\n<li><strong>Voltage &#8211; Input (Min):</strong> 90VAC</li>\n<li><strong>Voltage &#8211; Input (Max):</strong> 305VAC</li>\n<li><strong>Voltage &#8211; Output:</strong> 24V</li>\n<li><strong>Current &#8211; Output (Max):</strong> 3.75A</li>\n<li><strong>Power (Watts):</strong> 90 W</li>\n<li><strong>Voltage &#8211; Isolation:</strong> 3.75 kV</li>\n<li><strong>Dimming:</strong> Analog, PWM</li>\n<li><strong>Features:</strong> OCP, OTP, OVP, SCP</li>\n<li><strong>Ratings:</strong> IP67</li>\n<li><strong>Operating Temperature:</strong> -40\u00b0C ~ 85\u00b0C</li>\n<li><strong>Efficiency:</strong> 89%</li>\n<li><strong>Termination Style:</strong> Wire Leads (Available with AU Plug)</li>\n<li><strong>Size / Dimension:</strong> 171*63*37.5mm (L*W*H)</li>\n<li><strong>Approval Agency:</strong> CB, CCC, CE, cURus, ENEC</li>\n<li><strong>Mounting Type:</strong> Chassis Mount</li>\n</ul>\n<h4>Superior Performance and Safety:</h4>\n<p>With its compact box package design and active constant voltage type, the PWM-90-24 driver ensures stable power delivery with maximum efficiency. Enjoy peace of mind with built-in safety features including Over-Current Protection (OCP), Over-Temperature Protection (OTP), Over-Voltage Protection (OVP), and Short-Circuit Protection (SCP).</p>\n<h4>Flexible Dimming Options:</h4>\n<p>The PWM-90-24 driver supports both analog and PWM dimming, offering versatile control over light intensity to suit your specific needs.</p>\n<h4>Wide Compatibility and Easy Installation:</h4>\n<p>Featuring a wide input voltage range from 90VAC to 305VAC and high isolation voltage of 3.75kV, this driver is compatible with various setups and ensures enhanced safety. Wire lead termination and optional AU plug provide hassle-free installation and flexibility.</p>\n<h4>Certified Quality and Reliability:</h4>\n<p>Certified by reputable approval agencies including CB, CCC, CE, cURus, and ENEC, the PWM-90-24 driver meets stringent quality and safety standards, guaranteeing superior performance and reliability for your lighting projects.</p>\n<p>Illuminate your space with confidence using the PWM-90-24 Dimmable LED Driver from MEAN WELL, the trusted choice for exceptional lighting performance and efficiency.</p>\n<p><span style=\"font-size: 23.04px;color: #333333\">Datasheet</span></p>\n<p><span class=\"rd-link-img\"><img class=\"fr-fin fr-tag\" src=\"https://www.meanwell-web.com/content/files/icons/pdf.png\" alt=\"Datasheet\" /></span><a href=\"https://www.meanwell.com/webapp/product/search.aspx?prod=PWM-90(DA)\"><span class=\"rd-link-text\">Datasheet</span></a></p>\n</div>\n<p>&nbsp;</p>",
+   "on_sale": false,
+   "prices": {
+    "price": "15499",
+    "regular_price": "15499",
+    "sale_price": "15499",
+    "price_range": null,
+    "currency_code": "AUD",
+    "currency_symbol": "$",
+    "currency_minor_unit": 2,
+    "currency_decimal_separator": ".",
+    "currency_thousand_separator": ",",
+    "currency_prefix": "$",
+    "currency_suffix": ""
+   },
+   "price_html": "<span class=\"woocs_price_code\" data-currency=\"\" data-redraw-id=\"6ab13079c31c3\" data-product-id=\"30383\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#036;</span>154.99</span> <small class=\"woocommerce-price-suffix\">EX GST</small></span>",
+   "average_rating": "0",
+   "review_count": 0,
+   "images": [
+    {
+     "id": 28039,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602.jpg 1282w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-503x400.jpg 503w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-1005x800.jpg 1005w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-768x611.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-600x477.jpg 600w",
+     "sizes": "(max-width: 1282px) 100vw, 1282px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-32x32.jpg 32w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "pwm-602",
+     "alt": "PWM-120-24 Dimmable Led Driver"
+    },
+    {
+     "id": 28539,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug.jpg 800w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-32x32.jpg 32w",
+     "sizes": "(max-width: 800px) 100vw, 800px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-32x32.jpg 32w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug.jpg 800w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "pwm60auplug",
+     "alt": "PWM-120-24 Dimmable Led Driver"
+    }
+   ],
+   "categories": [
+    {
+     "id": 22,
+     "name": "Grow Light Drivers &amp; Controllers",
+     "slug": "growlight-drivers-controllers",
+     "link": "https://www.cutter.com.au/product-category/diy-led-kits/horticulture-lighting/growlight-drivers-controllers/"
+    },
+    {
+     "id": 368,
+     "name": "Constant Voltage",
+     "slug": "constant-voltage-ac-dc-led-driver-meanwell-led-drivers",
+     "link": "https://www.cutter.com.au/product-category/led-drivers/meanwell-led-drivers/ac-dc-led-driver-meanwell-led-drivers/constant-voltage-ac-dc-led-driver-meanwell-led-drivers/"
+    },
+    {
+     "id": 2505,
+     "name": "Sauna Led Strips",
+     "slug": "sauna-led-strips",
+     "link": "https://www.cutter.com.au/product-category/led-emitter/flexible-led-ribbon/standard-led-strip/sauna-led-strips/"
+    }
+   ],
+   "tags": [
+    {
+     "id": 3489,
+     "name": "AC-DC converter",
+     "slug": "ac-dc-converter",
+     "link": "https://www.cutter.com.au/product-tag/ac-dc-converter/"
+    },
+    {
+     "id": 3486,
+     "name": "constant voltage",
+     "slug": "constant-voltage",
+     "link": "https://www.cutter.com.au/product-tag/constant-voltage/"
+    },
+    {
+     "id": 3657,
+     "name": "Dimmable",
+     "slug": "dimmable",
+     "link": "https://www.cutter.com.au/product-tag/dimmable/"
+    },
+    {
+     "id": 3335,
+     "name": "energy efficiency",
+     "slug": "energy-efficiency",
+     "link": "https://www.cutter.com.au/product-tag/energy-efficiency/"
+    },
+    {
+     "id": 835,
+     "name": "LED Driver",
+     "slug": "led-driver",
+     "link": "https://www.cutter.com.au/product-tag/led-driver/"
+    },
+    {
+     "id": 3658,
+     "name": "Lighting Solution",
+     "slug": "lighting-solution",
+     "link": "https://www.cutter.com.au/product-tag/lighting-solution/"
+    },
+    {
+     "id": 3656,
+     "name": "MEAN WELL",
+     "slug": "mean-well",
+     "link": "https://www.cutter.com.au/product-tag/mean-well/"
+    },
+    {
+     "id": 560,
+     "name": "meanwell",
+     "slug": "meanwell",
+     "link": "https://www.cutter.com.au/product-tag/meanwell/"
+    },
+    {
+     "id": 687,
+     "name": "PWM",
+     "slug": "pwm",
+     "link": "https://www.cutter.com.au/product-tag/pwm/"
+    }
+   ],
+   "brands": [],
+   "attributes": [
+    {
+     "id": 53,
+     "name": "Dimming Version",
+     "taxonomy": "pa_dimming-version",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1704,
+       "name": "1-10V",
+       "slug": "1-10v"
+      },
+      {
+       "id": 1708,
+       "name": "Resistive(Pot)",
+       "slug": "resistive-pot"
+      }
+     ]
+    },
+    {
+     "id": 44,
+     "name": "Power",
+     "taxonomy": "pa_led-power",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 3912,
+       "name": "90 Watts",
+       "slug": "90-watts"
+      }
+     ]
+    },
+    {
+     "id": 57,
+     "name": "Led Driver Manufacturer",
+     "taxonomy": "pa_led-driver-manfacturer",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1993,
+       "name": "Meanwell",
+       "slug": "meanwell"
+      }
+     ]
+    }
+   ],
+   "variations": [],
+   "grouped_products": [],
+   "has_options": false,
+   "is_purchasable": true,
+   "is_in_stock": true,
+   "is_on_backorder": false,
+   "low_stock_remaining": null,
+   "stock_availability": {
+    "text": "",
+    "class": "in-stock"
+   },
+   "sold_individually": false,
+   "weight": "1.35",
+   "dimensions": {
+    "length": "150",
+    "width": "53",
+    "height": "40"
+   },
+   "formatted_weight": "1.35 kg",
+   "formatted_dimensions": "150 \u00d7 53 \u00d7 40 mm",
+   "add_to_cart": {
+    "text": "Add to cart",
+    "description": "Add to cart: &ldquo;PWM-90-24 Dimmable Led Driver&rdquo;",
+    "url": "/wp-json/wc/store/v1/products?search=led+driver&#038;page=1&#038;per_page=24&#038;add-to-cart=30383",
+    "single_text": "Add to cart",
+    "minimum": 1,
+    "maximum": 9999,
+    "multiple_of": 1
+   },
+   "is_password_protected": false,
+   "extensions": {},
+   "_links": {
+    "self": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products/30383",
+      "targetHints": {
+       "allow": [
+        "GET"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products"
+     }
+    ],
+    "upsells": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?include=29313,8632,16151,2164,2173,2168"
+     }
+    ],
+    "cross_sells": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?include=29313,8632,16151,2164,2173,2168"
+     }
+    ],
+    "related": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?related=30383&per_page=10"
+     }
+    ]
+   }
+  },
+  {
+   "id": 29511,
+   "name": "PWM-40-24 Dimmable Led Driver.",
+   "slug": "pwm-40-24-dimmable-led-driver",
+   "parent": 0,
+   "type": "simple",
+   "variation": "",
+   "permalink": "https://www.cutter.com.au/product/pwm-40-24-dimmable-led-driver/",
+   "sku": "PWM-40-24 Dimmable Led Driver.",
+   "short_description": "<p>40 watt Led Driver, IP67, dimmable. Fly Lead Primary or AU Plug, RCM Approved</p>",
+   "description": "<div id=\"documents-Datasheet\" class=\"tab-item clearfix\">\n<h3>Introducing the PWM-40-24 Dimmable LED Driver</h3>\n<p>Discover the PWM-40-24 Dimmable LED Driver, a cutting-edge solution from MEAN WELL designed to elevate your lighting systems to new heights of reliability and energy efficiency. Engineered with precision, this driver delivers a robust 40W Pulse Width Modulation (PWM) output, ensuring optimal performance for a wide range of LED lighting applications.</p>\n<h4>Key Features:</h4>\n<ul>\n<li><strong>Manufacturer:</strong> MEAN WELL</li>\n<li><strong>Package:</strong> Box</li>\n<li><strong>Product Status:</strong> Active</li>\n<li><strong>Type:</strong> Constant Voltage</li>\n<li><strong>Topology:</strong> AC DC Converter</li>\n<li><strong>Number of Outputs:</strong> 1</li>\n<li><strong>Voltage &#8211; Input (Min):</strong> 90VAC</li>\n<li><strong>Voltage &#8211; Input (Max):</strong> 305VAC</li>\n<li><strong>Voltage &#8211; Output:</strong> 24V</li>\n<li><strong>Current &#8211; Output (Max):</strong> 1.67A</li>\n<li><strong>Power (Watts):</strong> 40 W</li>\n<li><strong>Voltage &#8211; Isolation:</strong> 3.75 kV</li>\n<li><strong>Dimming:</strong> Analog, PWM</li>\n<li><strong>Features:</strong> OCP, OTP, OVP, SCP</li>\n<li><strong>Ratings:</strong> IP67</li>\n<li><strong>Operating Temperature:</strong> -40\u00b0C ~ 85\u00b0C</li>\n<li><strong>Efficiency:</strong> 89%</li>\n<li><strong>Termination Style:</strong> Wire Leads (Available with AU Plug)</li>\n<li><strong>Size / Dimension:</strong> 5.91&#8243; L x 2.09&#8243; W x 1.38&#8243; H (150.0mm x 53.0mm x 35.0mm)</li>\n<li><strong>Approval Agency:</strong> CB, CCC, CE, cURus, ENEC</li>\n<li><strong>Mounting Type:</strong> Chassis Mount</li>\n</ul>\n<h4>Superior Performance and Safety:</h4>\n<p>With its compact box package design and active constant voltage type, the PWM-40-24 driver ensures stable power delivery with maximum efficiency. Enjoy peace of mind with built-in safety features including Over-Current Protection (OCP), Over-Temperature Protection (OTP), Over-Voltage Protection (OVP), and Short-Circuit Protection (SCP).</p>\n<h4>Flexible Dimming Options:</h4>\n<p>The PWM-40-24 driver supports both analog and PWM dimming, offering versatile control over light intensity to suit your specific needs.</p>\n<h4>Wide Compatibility and Easy Installation:</h4>\n<p>Featuring a wide input voltage range from 90VAC to 305VAC and high isolation voltage of 3.75kV, this driver is compatible with various setups and ensures enhanced safety. Wire lead termination and optional AU plug provide hassle-free installation and flexibility.</p>\n<h4>Certified Quality and Reliability:</h4>\n<p>Certified by reputable approval agencies including CB, CCC, CE, cURus, and ENEC, the PWM-40-24 driver meets stringent quality and safety standards, guaranteeing superior performance and reliability for your lighting projects.</p>\n<p>Illuminate your space with confidence using the PWM-40-24 Dimmable LED Driver from MEAN WELL, the trusted choice for exceptional lighting performance and efficiency.</p>\n<p><span style=\"font-size: 23.04px;color: #333333\">Datasheet</span></p>\n<p><span class=\"rd-link-img\"><img class=\"fr-fin fr-tag\" src=\"https://www.meanwell-web.com/content/files/icons/pdf.png\" alt=\"Datasheet\" /></span><a href=\"https://www.meanwell.com/webapp/product/search.aspx?prod=PWM-40\"><span class=\"rd-link-text\">Datasheet</span></a></p>\n</div>\n<p>&nbsp;</p>",
+   "on_sale": false,
+   "prices": {
+    "price": "12000",
+    "regular_price": "12000",
+    "sale_price": "12000",
+    "price_range": null,
+    "currency_code": "AUD",
+    "currency_symbol": "$",
+    "currency_minor_unit": 2,
+    "currency_decimal_separator": ".",
+    "currency_thousand_separator": ",",
+    "currency_prefix": "$",
+    "currency_suffix": ""
+   },
+   "price_html": "<span class=\"woocs_price_code\" data-currency=\"\" data-redraw-id=\"6ab13079ccd33\" data-product-id=\"29511\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#036;</span>120.00</span> <small class=\"woocommerce-price-suffix\">EX GST</small></span>",
+   "average_rating": "0",
+   "review_count": 0,
+   "images": [
+    {
+     "id": 28039,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602.jpg 1282w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-503x400.jpg 503w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-1005x800.jpg 1005w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-768x611.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-600x477.jpg 600w",
+     "sizes": "(max-width: 1282px) 100vw, 1282px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-32x32.jpg 32w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "pwm-602",
+     "alt": "PWM-120-24 Dimmable Led Driver"
+    },
+    {
+     "id": 28539,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug.jpg 800w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-32x32.jpg 32w",
+     "sizes": "(max-width: 800px) 100vw, 800px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-32x32.jpg 32w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug.jpg 800w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "pwm60auplug",
+     "alt": "PWM-120-24 Dimmable Led Driver"
+    }
+   ],
+   "categories": [
+    {
+     "id": 22,
+     "name": "Grow Light Drivers &amp; Controllers",
+     "slug": "growlight-drivers-controllers",
+     "link": "https://www.cutter.com.au/product-category/diy-led-kits/horticulture-lighting/growlight-drivers-controllers/"
+    },
+    {
+     "id": 368,
+     "name": "Constant Voltage",
+     "slug": "constant-voltage-ac-dc-led-driver-meanwell-led-drivers",
+     "link": "https://www.cutter.com.au/product-category/led-drivers/meanwell-led-drivers/ac-dc-led-driver-meanwell-led-drivers/constant-voltage-ac-dc-led-driver-meanwell-led-drivers/"
+    },
+    {
+     "id": 2505,
+     "name": "Sauna Led Strips",
+     "slug": "sauna-led-strips",
+     "link": "https://www.cutter.com.au/product-category/led-emitter/flexible-led-ribbon/standard-led-strip/sauna-led-strips/"
+    }
+   ],
+   "tags": [
+    {
+     "id": 3489,
+     "name": "AC-DC converter",
+     "slug": "ac-dc-converter",
+     "link": "https://www.cutter.com.au/product-tag/ac-dc-converter/"
+    },
+    {
+     "id": 3486,
+     "name": "constant voltage",
+     "slug": "constant-voltage",
+     "link": "https://www.cutter.com.au/product-tag/constant-voltage/"
+    },
+    {
+     "id": 3657,
+     "name": "Dimmable",
+     "slug": "dimmable",
+     "link": "https://www.cutter.com.au/product-tag/dimmable/"
+    },
+    {
+     "id": 3335,
+     "name": "energy efficiency",
+     "slug": "energy-efficiency",
+     "link": "https://www.cutter.com.au/product-tag/energy-efficiency/"
+    },
+    {
+     "id": 835,
+     "name": "LED Driver",
+     "slug": "led-driver",
+     "link": "https://www.cutter.com.au/product-tag/led-driver/"
+    },
+    {
+     "id": 3658,
+     "name": "Lighting Solution",
+     "slug": "lighting-solution",
+     "link": "https://www.cutter.com.au/product-tag/lighting-solution/"
+    },
+    {
+     "id": 3656,
+     "name": "MEAN WELL",
+     "slug": "mean-well",
+     "link": "https://www.cutter.com.au/product-tag/mean-well/"
+    },
+    {
+     "id": 560,
+     "name": "meanwell",
+     "slug": "meanwell",
+     "link": "https://www.cutter.com.au/product-tag/meanwell/"
+    },
+    {
+     "id": 687,
+     "name": "PWM",
+     "slug": "pwm",
+     "link": "https://www.cutter.com.au/product-tag/pwm/"
+    }
+   ],
+   "brands": [],
+   "attributes": [
+    {
+     "id": 53,
+     "name": "Dimming Version",
+     "taxonomy": "pa_dimming-version",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1704,
+       "name": "1-10V",
+       "slug": "1-10v"
+      },
+      {
+       "id": 1708,
+       "name": "Resistive(Pot)",
+       "slug": "resistive-pot"
+      }
+     ]
+    },
+    {
+     "id": 44,
+     "name": "Power",
+     "taxonomy": "pa_led-power",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 3655,
+       "name": "40 Watts",
+       "slug": "40-watts"
+      }
+     ]
+    },
+    {
+     "id": 57,
+     "name": "Led Driver Manufacturer",
+     "taxonomy": "pa_led-driver-manfacturer",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1993,
+       "name": "Meanwell",
+       "slug": "meanwell"
+      }
+     ]
+    }
+   ],
+   "variations": [],
+   "grouped_products": [],
+   "has_options": false,
+   "is_purchasable": true,
+   "is_in_stock": true,
+   "is_on_backorder": false,
+   "low_stock_remaining": null,
+   "stock_availability": {
+    "text": "",
+    "class": "in-stock"
+   },
+   "sold_individually": false,
+   "weight": "1.35",
+   "dimensions": {
+    "length": "150",
+    "width": "53",
+    "height": "40"
+   },
+   "formatted_weight": "1.35 kg",
+   "formatted_dimensions": "150 \u00d7 53 \u00d7 40 mm",
+   "add_to_cart": {
+    "text": "Add to cart",
+    "description": "Add to cart: &ldquo;PWM-40-24 Dimmable Led Driver.&rdquo;",
+    "url": "/wp-json/wc/store/v1/products?search=led+driver&#038;page=1&#038;per_page=24&#038;add-to-cart=29511",
+    "single_text": "Add to cart",
+    "minimum": 1,
+    "maximum": 9999,
+    "multiple_of": 1
+   },
+   "is_password_protected": false,
+   "extensions": {},
+   "_links": {
+    "self": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products/29511",
+      "targetHints": {
+       "allow": [
+        "GET"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products"
+     }
+    ],
+    "upsells": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?include=29313,8632,16151,2164,2173,2168"
+     }
+    ],
+    "cross_sells": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?include=29313,8632,16151,2164,2173,2168"
+     }
+    ],
+    "related": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?related=29511&per_page=10"
+     }
+    ]
+   }
+  },
+  {
+   "id": 28884,
+   "name": "LPF-60-24 Led Driver",
+   "slug": "pf-60-24-led-driver",
+   "parent": 0,
+   "type": "simple",
+   "variation": "",
+   "permalink": "https://www.cutter.com.au/product/pf-60-24-led-driver/",
+   "sku": "LPF-60-24",
+   "short_description": "<p>MEAN WELL LPF-60D-24 24V 60W IP67 dimmable LED driver for professional LED strip, linear lighting, signage, cabinet, display and smart control applications. Supports compatible 1\u201310V, PWM signal and resistance dimming.</p>\n<div class=\"ctc-tooltip\"></div>\n<div class=\"ctc-tooltip\"></div>\n<table style=\"width: 100%;max-width: 560px;border-collapse: separate;border-spacing: 0;margin: 14px 0;background: #0c5a95;border: 2px solid #9cd4fb;border-radius: 16px;overflow: hidden\">\n<tbody>\n<tr>\n<td style=\"width: 64px;padding: 14px 10px 14px 16px;vertical-align: middle\">\n<div style=\"width: 46px;height: 46px;background: #fff;border-radius: 10px;text-align: center;line-height: 46px;font-size: 22px\">\ud83d\udcc4</div>\n</td>\n<td style=\"padding: 12px 8px 12px 0;vertical-align: middle\">\n<div style=\"font-size: 10px;font-weight: bold;letter-spacing: 1.4px;text-transform: uppercase;color: #d8efff;margin-bottom: 4px\">Technical Datasheet</div>\n<div style=\"font-size: 17px;font-weight: bold;line-height: 1.15;color: #fff;margin-bottom: 3px\">MEAN WELL LPF-60D-24<br />\n24V 60W IP67 LED Driver</div>\n<p><a style=\"font-size: 13px;font-weight: bold;color: #ffffff;text-decoration: underline\" href=\"https://www.meanwellusa.com/upload/pdf/LPF-60/LPF-60-spec.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Open Datasheet</a></td>\n<td style=\"width: 108px;padding: 14px 16px 14px 8px;text-align: right;vertical-align: middle\"><a style=\"display: inline-block;padding: 9px 12px;background: #fff;color: #0c5a95;border-radius: 10px;font-size: 12px;font-weight: 800;text-decoration: none\" href=\"https://www.meanwellusa.com/upload/pdf/LPF-60/LPF-60-spec.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">View PDF</a></td>\n</tr>\n</tbody>\n</table>",
+   "description": "<div style=\"max-width: 1180px;font-size: 15px;line-height: 1.7;color: #444\">\n<div style=\"background: #f7fafc;border: 1px solid #e1e8ee;border-radius: 14px;padding: 26px 30px;margin-bottom: 26px\">\n<h2 style=\"font-size: 28px;line-height: 1.25;color: #333;margin: 0 0 14px 0;font-weight: 600\">MEAN WELL LPF-60D-24 24V 60W IP67 Dimmable LED Driver</h2>\n<p style=\"margin: 0 0 14px 0\">The <strong>MEAN WELL LPF-60D-24</strong> is a professional-grade 24V, 60W LED driver designed for reliable operation in architectural, commercial, signage, joinery, display, cabinet, linear LED and outdoor-rated lighting applications.</p>\n<p style=\"margin: 0\">With a wide <strong>90\u2013305VAC input range</strong>, IP67 weather-resistant construction and built-in protection features, this driver is a strong choice where stable 24V LED power, long service life and smart dimming compatibility are required.</p>\n<div style=\"display: flex;flex-wrap: wrap;gap: 8px;margin-top: 18px\"><span style=\"background: #2f6b36;color: #fff;padding: 6px 11px;border-radius: 999px;font-size: 12px;font-weight: 600\">24V Output</span><br />\n<span style=\"background: #2f6b36;color: #fff;padding: 6px 11px;border-radius: 999px;font-size: 12px;font-weight: 600\">60W Power</span><br />\n<span style=\"background: #2f6b36;color: #fff;padding: 6px 11px;border-radius: 999px;font-size: 12px;font-weight: 600\">2.5A Max</span><br />\n<span style=\"background: #2f6b36;color: #fff;padding: 6px 11px;border-radius: 999px;font-size: 12px;font-weight: 600\">IP67 Rated</span><br />\n<span style=\"background: #2f6b36;color: #fff;padding: 6px 11px;border-radius: 999px;font-size: 12px;font-weight: 600\">1\u201310V / PWM / Resistance Dimming</span><br />\n<span style=\"background: #2f6b36;color: #fff;padding: 6px 11px;border-radius: 999px;font-size: 12px;font-weight: 600\">Shelly Compatible*</span></div>\n</div>\n<div style=\"background: #fff8e6;border-left: 5px solid #d99a00;padding: 15px 18px;border-radius: 8px;margin: 0 0 26px 0\"><strong>Important model note:</strong> For dimming applications, use the <strong>LPF-60D-24</strong> version. The standard <strong>LPF-60-24</strong> version is not the correct choice where 0/1\u201310V control is required.</div>\n<h3 style=\"font-size: 22px;color: #333;margin: 28px 0 12px 0;padding-bottom: 8px;border-bottom: 2px solid #e5e7eb\">Why Choose the LPF-60D-24?</h3>\n<p>Not all 24V LED drivers are equal. The LPF-60D-24 combines the durability of a fully enclosed IP67 driver with the flexibility needed for modern control systems. It is suitable for 24V LED strip, linear lighting, signage modules, display lighting and custom LED assemblies where a dependable, sealed power supply is required.</p>\n<div style=\"display: grid;grid-template-columns: repeat(auto-fit,minmax(230px,1fr));gap: 14px;margin: 20px 0 30px 0\">\n<div style=\"border: 1px solid #e5e7eb;border-radius: 12px;padding: 18px;background: #fff\">\n<h4 style=\"margin: 0 0 8px 0;font-size: 17px;color: #333\">Stable 24V LED Power</h4>\n<p style=\"margin: 0\">Delivers up to 60W at 24V DC, ideal for medium-power LED strip and module installations.</p>\n</div>\n<div style=\"border: 1px solid #e5e7eb;border-radius: 12px;padding: 18px;background: #fff\">\n<h4 style=\"margin: 0 0 8px 0;font-size: 17px;color: #333\">IP67 Weather Protection</h4>\n<p style=\"margin: 0\">Suitable for dry, damp and protected outdoor installations where dust and moisture resistance are important.</p>\n</div>\n<div style=\"border: 1px solid #e5e7eb;border-radius: 12px;padding: 18px;background: #fff\">\n<h4 style=\"margin: 0 0 8px 0;font-size: 17px;color: #333\">Wide AC Input Range</h4>\n<p style=\"margin: 0\">Accepts 90\u2013305VAC input, making it suitable for many commercial and industrial lighting environments.</p>\n</div>\n<div style=\"border: 1px solid #e5e7eb;border-radius: 12px;padding: 18px;background: #fff\">\n<h4 style=\"margin: 0 0 8px 0;font-size: 17px;color: #333\">Smart Control Ready</h4>\n<p style=\"margin: 0\">The LPF-60D dimming input can be controlled by compatible 1\u201310V, PWM or resistance-style dimming systems.</p>\n</div>\n</div>\n<h3 style=\"font-size: 22px;color: #333;margin: 28px 0 12px 0;padding-bottom: 8px;border-bottom: 2px solid #e5e7eb\">Works with Shelly Dimmer 0/1-10V PM Gen3</h3>\n<div style=\"background: #eef9f0;border: 1px solid #c7e7cc;border-radius: 12px;padding: 20px;margin: 16px 0 26px 0\">\n<p style=\"margin: 0 0 12px 0\">The <strong>Shelly Dimmer 0/1-10V PM Gen3</strong> is designed for controlling compatible 0\u201310V and 1\u201310V dimmable drivers. Because the <strong>LPF-60D-24</strong> supports 1\u201310V dimming, the two products are a practical combination for smart 24V LED lighting control.</p>\n<p style=\"margin: 0\">In a typical installation, the Shelly unit provides the control signal, while the MEAN WELL driver supplies the 24V power to the LED load. This allows smart dimming through the Shelly app, schedules, automation systems or compatible smart home platforms.</p>\n</div>\n<h3 style=\"font-size: 22px;color: #333;margin: 28px 0 12px 0;padding-bottom: 8px;border-bottom: 2px solid #e5e7eb\">Why Use LPF-60D-24 Instead of PWM-60-24?</h3>\n<div style=\"background: #fff1f1;border: 1px solid #f2c5c5;border-radius: 12px;padding: 20px;margin: 16px 0 26px 0\">\n<p style=\"margin: 0 0 12px 0\">The <strong>MEAN WELL PWM-60-24</strong> is also a 24V 60W LED driver, but it is a different style of product. The PWM series is designed with a <strong>PWM output</strong>, meaning the driver dims by rapidly switching the LED output on and off while maintaining the output voltage level.</p>\n<p style=\"margin: 0 0 12px 0\">For many LED strips this can work well, but it is not always the preferred choice when the project requires a clean 0/1\u201310V control relationship with a smart dimming controller such as the Shelly Dimmer 0/1-10V PM Gen3.</p>\n<p style=\"margin: 0\">The <strong>LPF-60D-24</strong> is the better product to present for Shelly 0/1\u201310V dimming because its dimming input is the key feature being controlled. The Shelly controls the driver; the driver then regulates the LED output.</p>\n</div>\n<p style=\"font-weight: 600\">In simple terms: use <strong>LPF-60D-24</strong> when you want Shelly 0/1\u201310V control of the driver. Use PWM-series drivers only where the application specifically requires MEAN WELL\u2019s PWM-output dimming behaviour.</p>\n<h3 style=\"font-size: 22px;color: #333;margin: 28px 0 12px 0;padding-bottom: 8px;border-bottom: 2px solid #e5e7eb\">Ideal Applications</h3>\n<div style=\"display: grid;grid-template-columns: repeat(auto-fit,minmax(230px,1fr));gap: 14px;margin: 20px 0 30px 0\">\n<div style=\"border: 1px solid #e5e7eb;border-radius: 12px;padding: 18px;background: #fff\">\n<h4 style=\"margin: 0 0 8px 0;font-size: 17px;color: #333\">LED Strip Lighting</h4>\n<p style=\"margin: 0\">Suitable for 24V single-colour LED strip installations up to 60W total load.</p>\n</div>\n<div style=\"border: 1px solid #e5e7eb;border-radius: 12px;padding: 18px;background: #fff\">\n<h4 style=\"margin: 0 0 8px 0;font-size: 17px;color: #333\">Architectural Lighting</h4>\n<p style=\"margin: 0\">Ideal for coves, joinery, feature lighting, indirect lighting and display applications.</p>\n</div>\n<div style=\"border: 1px solid #e5e7eb;border-radius: 12px;padding: 18px;background: #fff\">\n<h4 style=\"margin: 0 0 8px 0;font-size: 17px;color: #333\">Commercial Fit-Outs</h4>\n<p style=\"margin: 0\">Useful for retail, hospitality, office, cabinet and signage lighting projects.</p>\n</div>\n<div style=\"border: 1px solid #e5e7eb;border-radius: 12px;padding: 18px;background: #fff\">\n<h4 style=\"margin: 0 0 8px 0;font-size: 17px;color: #333\">Smart Lighting Upgrades</h4>\n<p style=\"margin: 0\">Pairs well with compatible 0/1\u201310V smart dimming controllers for app and automation control.</p>\n</div>\n</div>\n<h3 style=\"font-size: 22px;color: #333;margin: 28px 0 12px 0;padding-bottom: 8px;border-bottom: 2px solid #e5e7eb\">Technical Specifications</h3>\n<table style=\"width: 100%;border-collapse: collapse;margin: 16px 0 26px 0;font-size: 14px\">\n<tbody>\n<tr>\n<th style=\"background: #2f6b36;color: #fff;text-align: left;padding: 11px\">Specification</th>\n<th style=\"background: #2f6b36;color: #fff;text-align: left;padding: 11px\">Details</th>\n</tr>\n<tr>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px\">Manufacturer</td>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px\">MEAN WELL</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px;background: #f9fafb\">Series</td>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px;background: #f9fafb\">LPF-60D Series</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px\">Recommended Part Number</td>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px\">LPF-60D-24</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px;background: #f9fafb\">Output Power</td>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px;background: #f9fafb\">60W</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px\">Output Voltage</td>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px\">24V DC nominal</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px;background: #f9fafb\">Output Current</td>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px;background: #f9fafb\">2.5A max</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px\">Input Voltage Range</td>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px\">90\u2013305VAC</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px;background: #f9fafb\">Dimming</td>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px;background: #f9fafb\">1\u201310V, PWM signal or resistance dimming</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px\">Ingress Protection</td>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px\">IP67</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px;background: #f9fafb\">Protection Features</td>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px;background: #f9fafb\">Short circuit, overload, over voltage and over temperature protection</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px\">Typical Applications</td>\n<td style=\"border: 1px solid #e5e7eb;padding: 10px\">24V LED strip, linear LED modules, signage, display lighting, architectural lighting and smart dimming projects</td>\n</tr>\n</tbody>\n</table>\n<h3 style=\"font-size: 22px;color: #333;margin: 28px 0 12px 0;padding-bottom: 8px;border-bottom: 2px solid #e5e7eb\">Installation Notes</h3>\n<ul style=\"margin: 0 0 26px 22px;padding: 0\">\n<li>Do not exceed 60W total connected LED load.</li>\n<li>Allow suitable design margin; for continuous use, avoid running LED drivers at 100% load where possible.</li>\n<li>Use the dimmable <strong>LPF-60D-24</strong> model for Shelly 0/1\u201310V dimming projects.</li>\n<li>The standard <strong>LPF-60-24</strong> should be treated as non-dimmable unless the specific datasheet confirms otherwise.</li>\n<li>Installation must be carried out by a suitably qualified person in accordance with local electrical regulations.</li>\n</ul>\n<h3 style=\"font-size: 22px;color: #333;margin: 28px 0 12px 0;padding-bottom: 8px;border-bottom: 2px solid #e5e7eb\">Datasheet</h3>\n<p>For full electrical specifications, derating information, safety approvals and wiring details, please refer to the official MEAN WELL datasheet.</p>\n<p><a style=\"display: inline-block;background: #2f6b36;color: #ffffff;padding: 11px 18px;border-radius: 7px;text-decoration: none;font-weight: bold\" href=\"https://www.meanwellusa.com/upload/pdf/LPF-60/LPF-60-spec.pdf\" target=\"_blank\" rel=\"noopener\"><br />\nView / Download Datasheet<br />\n</a></p>\n</div>",
+   "on_sale": false,
+   "prices": {
+    "price": "16388",
+    "regular_price": "16388",
+    "sale_price": "16388",
+    "price_range": null,
+    "currency_code": "AUD",
+    "currency_symbol": "$",
+    "currency_minor_unit": 2,
+    "currency_decimal_separator": ".",
+    "currency_thousand_separator": ",",
+    "currency_prefix": "$",
+    "currency_suffix": ""
+   },
+   "price_html": "<span class=\"woocs_price_code\" data-currency=\"\" data-redraw-id=\"6ab13079dbbbf\" data-product-id=\"28884\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#036;</span>163.88</span> <small class=\"woocommerce-price-suffix\">EX GST</small></span>",
+   "average_rating": "0",
+   "review_count": 0,
+   "images": [
+    {
+     "id": 28885,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2024/03/lpf60-24.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2024/03/lpf60-24-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2024/03/lpf60-24.jpg 640w, https://www.cutter.com.au/wp-content/uploads/2024/03/lpf60-24-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2024/03/lpf60-24-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2024/03/lpf60-24-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2024/03/lpf60-24-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2024/03/lpf60-24-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2024/03/lpf60-24-32x32.jpg 32w",
+     "sizes": "(max-width: 640px) 100vw, 640px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2024/03/lpf60-24-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2024/03/lpf60-24-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2024/03/lpf60-24-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2024/03/lpf60-24-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2024/03/lpf60-24-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2024/03/lpf60-24-32x32.jpg 32w, https://www.cutter.com.au/wp-content/uploads/2024/03/lpf60-24.jpg 640w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "lpf60-24",
+     "alt": "LPF-60-24 Led Driver"
+    }
+   ],
+   "categories": [
+    {
+     "id": 22,
+     "name": "Grow Light Drivers &amp; Controllers",
+     "slug": "growlight-drivers-controllers",
+     "link": "https://www.cutter.com.au/product-category/diy-led-kits/horticulture-lighting/growlight-drivers-controllers/"
+    },
+    {
+     "id": 368,
+     "name": "Constant Voltage",
+     "slug": "constant-voltage-ac-dc-led-driver-meanwell-led-drivers",
+     "link": "https://www.cutter.com.au/product-category/led-drivers/meanwell-led-drivers/ac-dc-led-driver-meanwell-led-drivers/constant-voltage-ac-dc-led-driver-meanwell-led-drivers/"
+    }
+   ],
+   "tags": [
+    {
+     "id": 3010,
+     "name": "60 watt led driver",
+     "slug": "60-watt-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/60-watt-led-driver/"
+    },
+    {
+     "id": 560,
+     "name": "meanwell",
+     "slug": "meanwell",
+     "link": "https://www.cutter.com.au/product-tag/meanwell/"
+    },
+    {
+     "id": 3009,
+     "name": "pwm-60",
+     "slug": "pwm-60",
+     "link": "https://www.cutter.com.au/product-tag/pwm-60/"
+    }
+   ],
+   "brands": [],
+   "attributes": [
+    {
+     "id": 44,
+     "name": "Power",
+     "taxonomy": "pa_led-power",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1769,
+       "name": "60 Watts",
+       "slug": "60-watts"
+      }
+     ]
+    },
+    {
+     "id": 57,
+     "name": "Led Driver Manufacturer",
+     "taxonomy": "pa_led-driver-manfacturer",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1993,
+       "name": "Meanwell",
+       "slug": "meanwell"
+      }
+     ]
+    }
+   ],
+   "variations": [],
+   "grouped_products": [],
+   "has_options": false,
+   "is_purchasable": true,
+   "is_in_stock": true,
+   "is_on_backorder": false,
+   "low_stock_remaining": null,
+   "stock_availability": {
+    "text": "",
+    "class": "in-stock"
+   },
+   "sold_individually": false,
+   "weight": "1.35",
+   "dimensions": {
+    "length": "162",
+    "width": "43",
+    "height": "32"
+   },
+   "formatted_weight": "1.35 kg",
+   "formatted_dimensions": "162 \u00d7 43 \u00d7 32 mm",
+   "add_to_cart": {
+    "text": "Add to cart",
+    "description": "Add to cart: &ldquo;LPF-60-24 Led Driver&rdquo;",
+    "url": "/wp-json/wc/store/v1/products?search=led+driver&#038;page=1&#038;per_page=24&#038;add-to-cart=28884",
+    "single_text": "Add to cart",
+    "minimum": 1,
+    "maximum": 9999,
+    "multiple_of": 1
+   },
+   "is_password_protected": false,
+   "extensions": {},
+   "_links": {
+    "self": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products/28884",
+      "targetHints": {
+       "allow": [
+        "GET"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products"
+     }
+    ],
+    "upsells": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?include=2168,2173,2164,16151,29313"
+     }
+    ],
+    "cross_sells": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?include=2168,2173,2164,16151,29313"
+     }
+    ],
+    "related": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?related=28884&per_page=10"
+     }
+    ]
+   }
+  },
+  {
+   "id": 28037,
+   "name": "PWM-60-24 Dimmable Led Driver",
+   "slug": "pwm-60-24-dimmable-led-driver",
+   "parent": 0,
+   "type": "simple",
+   "variation": "",
+   "permalink": "https://www.cutter.com.au/product/pwm-60-24-dimmable-led-driver/",
+   "sku": "PWM-60-24",
+   "short_description": "<p>60 watt Led Driver, IP67, dimmable</p>",
+   "description": "<div id=\"documents-Datasheet\" class=\"tab-item clearfix\">\n<h3>Product Description:</h3>\n<p>Discover the epitome of efficiency and reliability with the PWM-60-24 Dimmable Led Driver from MEAN WELL USA Inc. This exceptional series introduces the PWM-60 Dimmable LED Driver, a powerhouse solution delivering 60W of power output. Engineered with precision and crafted for performance, this driver stands as a testament to innovation in LED lighting technology.</p>\n<h3>Enhanced Performance:</h3>\n<p>The PWM-60 series is meticulously designed to offer unparalleled performance in LED lighting applications. With its constant voltage type and AC DC converter topology, it ensures consistent and stable power delivery, essential for the optimal operation of LED lighting systems. Whether for residential, commercial, or industrial setups, this driver is primed to meet the demands of diverse lighting environments.</p>\n<h3>Cutting-Edge Features:</h3>\n<p>Equipped with a host of advanced features, the PWM-60 series sets a new standard in LED driver technology. Its dimming capabilities, including analog and PWM options, provide versatility in controlling light output, allowing users to adjust brightness levels with precision. Additionally, built-in protection features such as Overcurrent Protection (OCP), Over Temperature Protection (OTP), Over Voltage Protection (OVP), and Short Circuit Protection (SCP) ensure the safety and longevity of both the driver and connected LED fixtures.</p>\n<h3>Robust Design:</h3>\n<p>Designed for durability and longevity, the PWM-60 series boasts a rugged construction that can withstand demanding environmental conditions. With an IP67 rating, it offers protection against dust and water ingress, making it suitable for both indoor and outdoor applications. The driver&#8217;s wide operating temperature range of -40\u00b0C to 85\u00b0C further enhances its reliability, ensuring consistent performance even in extreme climates.</p>\n<h3>Seamless Integration:</h3>\n<p>Featuring a compact size and chassis mount design, the PWM-60 series offers easy integration into various lighting setups. Its wire leads termination style simplifies installation, while its approval from leading agencies such as CB, CCC, CE, cURus, and ENEC assures compliance with international standards.</p>\n<h3>Key Features: PWM-60-24 Dimmable Led Driver</h3>\n<ul>\n<li><strong>Manufacturer:</strong> MEAN WELL USA Inc.</li>\n<li><strong>Package:</strong> Box</li>\n<li><strong>Product Status:</strong> Active</li>\n<li><strong>Type:</strong> Constant Voltage</li>\n<li><strong>Topology:</strong> AC DC Converter</li>\n<li><strong>Number of Outputs:</strong> 1</li>\n<li><strong>Voltage &#8211; Input (Min):</strong> 90VAC</li>\n<li><strong>Voltage &#8211; Input (Max):</strong> 305VAC</li>\n<li><strong>Voltage &#8211; Output:</strong> 24V</li>\n<li><strong>Current &#8211; Output (Max):</strong> 2.5A</li>\n<li><strong>Power (Watts):</strong> 60W</li>\n<li><strong>Voltage &#8211; Isolation:</strong> 3.75 kV</li>\n<li><strong>Dimming:</strong> Analog, PWM</li>\n<li><strong>Features:</strong> OCP, OTP, OVP, SCP</li>\n<li><strong>Ratings:</strong> IP67</li>\n<li><strong>Operating Temperature:</strong> -40\u00b0C ~ 85\u00b0C</li>\n<li><strong>Efficiency:</strong> 89%</li>\n<li><strong>Termination Style:</strong> Wire Leads</li>\n<li><strong>Size / Dimension:</strong> 5.91&#8243; L x 2.09&#8243; W x 1.38&#8243; H (150.0mm x 53.0mm x 35.0mm)</li>\n<li><strong>Approval Agency:</strong> CB, CCC, CE, cURus, ENEC</li>\n<li><strong>Mounting Type:</strong> Chassis Mount</li>\n</ul>\n<p><span style=\"font-size: 23.04px;color: #333333\">Datasheet</span></p>\n<p><span class=\"rd-link-img\"><img class=\"fr-fin fr-tag\" src=\"https://www.meanwell-web.com/content/files/icons/pdf.png\" alt=\"Datasheet\" /></span><a href=\"https://www.meanwellusa.com/upload/pdf/PWM-60(DA)/PWM-60-spec.pdf\"><span class=\"rd-link-text\">Datasheet</span></a></p>\n</div>\n<p>&nbsp;</p>",
+   "on_sale": false,
+   "prices": {
+    "price": "14939",
+    "regular_price": "14939",
+    "sale_price": "14939",
+    "price_range": null,
+    "currency_code": "AUD",
+    "currency_symbol": "$",
+    "currency_minor_unit": 2,
+    "currency_decimal_separator": ".",
+    "currency_thousand_separator": ",",
+    "currency_prefix": "$",
+    "currency_suffix": ""
+   },
+   "price_html": "<span class=\"woocs_price_code\" data-currency=\"\" data-redraw-id=\"6ab13079e903b\" data-product-id=\"28037\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#036;</span>149.39</span> <small class=\"woocommerce-price-suffix\">EX GST</small></span>",
+   "average_rating": "0",
+   "review_count": 0,
+   "images": [
+    {
+     "id": 28039,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602.jpg 1282w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-503x400.jpg 503w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-1005x800.jpg 1005w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-768x611.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-600x477.jpg 600w",
+     "sizes": "(max-width: 1282px) 100vw, 1282px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm-602-32x32.jpg 32w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "pwm-602",
+     "alt": "PWM-120-24 Dimmable Led Driver"
+    },
+    {
+     "id": 28539,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug.jpg 800w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-32x32.jpg 32w",
+     "sizes": "(max-width: 800px) 100vw, 800px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug-32x32.jpg 32w, https://www.cutter.com.au/wp-content/uploads/2023/10/pwm60auplug.jpg 800w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "pwm60auplug",
+     "alt": "PWM-120-24 Dimmable Led Driver"
+    }
+   ],
+   "categories": [
+    {
+     "id": 22,
+     "name": "Grow Light Drivers &amp; Controllers",
+     "slug": "growlight-drivers-controllers",
+     "link": "https://www.cutter.com.au/product-category/diy-led-kits/horticulture-lighting/growlight-drivers-controllers/"
+    },
+    {
+     "id": 368,
+     "name": "Constant Voltage",
+     "slug": "constant-voltage-ac-dc-led-driver-meanwell-led-drivers",
+     "link": "https://www.cutter.com.au/product-category/led-drivers/meanwell-led-drivers/ac-dc-led-driver-meanwell-led-drivers/constant-voltage-ac-dc-led-driver-meanwell-led-drivers/"
+    },
+    {
+     "id": 2505,
+     "name": "Sauna Led Strips",
+     "slug": "sauna-led-strips",
+     "link": "https://www.cutter.com.au/product-category/led-emitter/flexible-led-ribbon/standard-led-strip/sauna-led-strips/"
+    }
+   ],
+   "tags": [
+    {
+     "id": 3010,
+     "name": "60 watt led driver",
+     "slug": "60-watt-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/60-watt-led-driver/"
+    },
+    {
+     "id": 560,
+     "name": "meanwell",
+     "slug": "meanwell",
+     "link": "https://www.cutter.com.au/product-tag/meanwell/"
+    },
+    {
+     "id": 3009,
+     "name": "pwm-60",
+     "slug": "pwm-60",
+     "link": "https://www.cutter.com.au/product-tag/pwm-60/"
+    }
+   ],
+   "brands": [],
+   "attributes": [
+    {
+     "id": 53,
+     "name": "Dimming Version",
+     "taxonomy": "pa_dimming-version",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1704,
+       "name": "1-10V",
+       "slug": "1-10v"
+      },
+      {
+       "id": 1708,
+       "name": "Resistive(Pot)",
+       "slug": "resistive-pot"
+      }
+     ]
+    },
+    {
+     "id": 44,
+     "name": "Power",
+     "taxonomy": "pa_led-power",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1769,
+       "name": "60 Watts",
+       "slug": "60-watts"
+      }
+     ]
+    },
+    {
+     "id": 57,
+     "name": "Led Driver Manufacturer",
+     "taxonomy": "pa_led-driver-manfacturer",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1993,
+       "name": "Meanwell",
+       "slug": "meanwell"
+      }
+     ]
+    }
+   ],
+   "variations": [],
+   "grouped_products": [],
+   "has_options": false,
+   "is_purchasable": true,
+   "is_in_stock": true,
+   "is_on_backorder": false,
+   "low_stock_remaining": null,
+   "stock_availability": {
+    "text": "",
+    "class": "in-stock"
+   },
+   "sold_individually": false,
+   "weight": "1.2",
+   "dimensions": {
+    "length": "230",
+    "width": "130",
+    "height": "42"
+   },
+   "formatted_weight": "1.2 kg",
+   "formatted_dimensions": "230 \u00d7 130 \u00d7 42 mm",
+   "add_to_cart": {
+    "text": "Add to cart",
+    "description": "Add to cart: &ldquo;PWM-60-24 Dimmable Led Driver&rdquo;",
+    "url": "/wp-json/wc/store/v1/products?search=led+driver&#038;page=1&#038;per_page=24&#038;add-to-cart=28037",
+    "single_text": "Add to cart",
+    "minimum": 1,
+    "maximum": 9999,
+    "multiple_of": 1
+   },
+   "is_password_protected": false,
+   "extensions": {},
+   "_links": {
+    "self": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products/28037",
+      "targetHints": {
+       "allow": [
+        "GET"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products"
+     }
+    ],
+    "upsells": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?include=29313,8632,16151,2164,2173,2168"
+     }
+    ],
+    "cross_sells": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?include=29313,8632,16151,2164,2173,2168"
+     }
+    ],
+    "related": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?related=28037&per_page=10"
+     }
+    ]
+   }
+  },
+  {
+   "id": 16320,
+   "name": "RCD-24-1.00/W/X3 Recom DC DC Led Driver",
+   "slug": "rcd-24-1-00-w-x3-recom-dc-dc-led-driver",
+   "parent": 0,
+   "type": "simple",
+   "variation": "",
+   "permalink": "https://www.cutter.com.au/product/rcd-24-1-00-w-x3-recom-dc-dc-led-driver/",
+   "sku": "RCD-24-1.00",
+   "short_description": "<p>The RCD series is a step-down constant current source designed for driving high power white LEDs.<br />\nStandard output currents available are 300mA, 350mA, 500mA, 600mA, 700mA, 1000mA and 1200mA, Dimmable Version X3 is both Analog and Digital dimming topology</p>",
+   "description": "<div class=\"media-body\">\n<p>Description, 1.amp Drive, wired version with both analogue and PWM dimming controls (six wires)</p>\n<p>The RCD series is a step-down constant current source designed for driving high power white LEDs.<br />\nStandard output currents available are 300mA, 350mA, 500mA, 600mA, 700mA, 1000mA and 1200mA to make this driver compatible with a wide range of LEDs applications. Despite its compact size, the RCD series is fully featured with very high efficiency, wide input voltage range, high ambient operating temperature and two means of dimming: PWM/digital control and analogue voltage dimming. Both dimming controls are independent and can be combined. The driver is also designed to be as reliable as the LEDs it is driving, even at the full operating temperature. Options include an IP67-rated wired version (/W) and a version with built-in reference output voltage (/Vref) to power sensors or for easy analogue dimming.</p>\n<p>Dimmable Version</p>\n<p><a class=\"hvr-sweep-to-right btn-sm\" href=\"https://www.recom-power.com/pdf/Lightline/RCD-24.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Datasheet</a></p>\n</div>\n<div class=\"media-body tx-recom-paramsearch-media-body-right\">\n<p>&#8211; UL/ RAILWAYS Certified Constant Current LED Driver<br />\n&#8211; Wide Input and Output Voltage Range<br />\n&#8211; Digital PWM and Analogue Voltage Dimming<br />\n&#8211; Short Circuit Protected<br />\n&#8211; Pinned or Wired Versions<br />\n&#8211; IP67 rated for /W Version<br />\n&#8211; 96% Efficiency<br />\n&#8211; 5 year Warranty</p>\n</div>",
+   "on_sale": false,
+   "prices": {
+    "price": "3543",
+    "regular_price": "3543",
+    "sale_price": "3543",
+    "price_range": null,
+    "currency_code": "AUD",
+    "currency_symbol": "$",
+    "currency_minor_unit": 2,
+    "currency_decimal_separator": ".",
+    "currency_thousand_separator": ",",
+    "currency_prefix": "$",
+    "currency_suffix": ""
+   },
+   "price_html": "<span class=\"woocs_price_code\" data-currency=\"\" data-redraw-id=\"6ab13079f176f\" data-product-id=\"16320\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#036;</span>35.43</span> <small class=\"woocommerce-price-suffix\">EX GST</small></span>",
+   "average_rating": "0",
+   "review_count": 0,
+   "images": [
+    {
+     "id": 33938,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage.jpg 1007w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-449x400.jpg 449w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-898x800.jpg 898w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-768x684.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-600x534.jpg 600w",
+     "sizes": "(max-width: 1007px) 100vw, 1007px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-32x32.jpg 32w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "rcdimage",
+     "alt": "X3 Recom DC DC Led Driver"
+    },
+    {
+     "id": 16326,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin.jpg 800w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-32x32.jpg 32w",
+     "sizes": "(max-width: 800px) 100vw, 800px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin.jpg 800w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-32x32.jpg 32w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "rcdpin",
+     "alt": "X3 Recom DC DC Led Driver"
+    }
+   ],
+   "categories": [
+    {
+     "id": 232,
+     "name": "Buck",
+     "slug": "buck-led-driver",
+     "link": "https://www.cutter.com.au/product-category/led-drivers/recom-lighting/dc-dc-led-drivers/buck-led-driver/"
+    }
+   ],
+   "tags": [
+    {
+     "id": 577,
+     "name": "analog dimming DC DC led driver",
+     "slug": "analog-dimming-dc-dc-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/analog-dimming-dc-dc-led-driver/"
+    },
+    {
+     "id": 353,
+     "name": "buck driver",
+     "slug": "buck-driver",
+     "link": "https://www.cutter.com.au/product-tag/buck-driver/"
+    },
+    {
+     "id": 352,
+     "name": "dc dc led driver",
+     "slug": "dc-dc-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/dc-dc-led-driver/"
+    },
+    {
+     "id": 576,
+     "name": "digital dimming dc dc led driver",
+     "slug": "digital-dimming-dc-dc-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/digital-dimming-dc-dc-led-driver/"
+    },
+    {
+     "id": 363,
+     "name": "RCD-24",
+     "slug": "rcd-24",
+     "link": "https://www.cutter.com.au/product-tag/rcd-24/"
+    }
+   ],
+   "brands": [],
+   "attributes": [
+    {
+     "id": 8,
+     "name": "Drive Current",
+     "taxonomy": "pa_drive-current",
+     "has_variations": true,
+     "terms": [
+      {
+       "id": 312,
+       "name": "1000ma",
+       "slug": "1000-ma"
+      }
+     ]
+    },
+    {
+     "id": 53,
+     "name": "Dimming Version",
+     "taxonomy": "pa_dimming-version",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1711,
+       "name": "PWM",
+       "slug": "pwm"
+      },
+      {
+       "id": 1708,
+       "name": "Resistive(Pot)",
+       "slug": "resistive-pot"
+      }
+     ]
+    },
+    {
+     "id": 57,
+     "name": "Led Driver Manufacturer",
+     "taxonomy": "pa_led-driver-manfacturer",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1994,
+       "name": "Recom",
+       "slug": "recom"
+      }
+     ]
+    }
+   ],
+   "variations": [],
+   "grouped_products": [],
+   "has_options": false,
+   "is_purchasable": true,
+   "is_in_stock": true,
+   "is_on_backorder": false,
+   "low_stock_remaining": null,
+   "stock_availability": {
+    "text": "25 in stock",
+    "class": "in-stock"
+   },
+   "sold_individually": false,
+   "weight": "0.05",
+   "dimensions": {
+    "length": "25",
+    "width": "15",
+    "height": "10"
+   },
+   "formatted_weight": "0.05 kg",
+   "formatted_dimensions": "25 \u00d7 15 \u00d7 10 mm",
+   "add_to_cart": {
+    "text": "Add to cart",
+    "description": "Add to cart: &ldquo;RCD-24-1.00/W/X3 Recom DC DC Led Driver&rdquo;",
+    "url": "/wp-json/wc/store/v1/products?search=led+driver&#038;page=1&#038;per_page=24&#038;add-to-cart=16320",
+    "single_text": "Add to cart",
+    "minimum": 1,
+    "maximum": 9999,
+    "multiple_of": 1
+   },
+   "is_password_protected": false,
+   "extensions": {},
+   "_links": {
+    "self": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products/16320",
+      "targetHints": {
+       "allow": [
+        "GET"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products"
+     }
+    ],
+    "related": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?related=16320&per_page=10"
+     }
+    ]
+   }
+  },
+  {
+   "id": 8622,
+   "name": "A011 FlexBlock Buck-Boost DC LED Driver",
+   "slug": "flexblock-buck-boost-dc-led-driver",
+   "parent": 0,
+   "type": "variable",
+   "variation": "",
+   "permalink": "https://www.cutter.com.au/product/flexblock-buck-boost-dc-led-driver/",
+   "sku": "A011 FlexBlock Buck-Boost DC LED Driver",
+   "short_description": "<p><strong>LuxDrive A011 FlexBlock\u2122</strong> is a fully potted, ultra low-profile <strong>buck-boost / boost-only</strong> constant-current LED driver for high-brightness LEDs. Runs from <strong>10\u201332VDC</strong>, supports <strong>0\u201310V dimming</strong>, fast response for <strong>flashing/strobing</strong>, and comes with <strong>(6) 18AWG 6&#8243; leads</strong>. Available in <strong>350mA, 500mA, and 700mA</strong> versions.</p>\n<div class=\"ctc-tooltip\"></div>",
+   "description": "<p><!-- LuxDrive A011 Series FlexBlock - WC Description Block --></p>\n<div class=\"fb-hero\" style=\"border: 1px solid #e6e6e6;border-radius: 14px;padding: 18px\">\n<div style=\"display: flex;gap: 16px;align-items: flex-start;flex-wrap: wrap\">\n<div style=\"flex: 1;min-width: 280px\">\n<h2 style=\"margin: 0 0 6px;font-size: 22px;line-height: 1.2\">FlexBlock Buck-Boost DC LED Driver (LuxDrive A011 Series)</h2>\n<p style=\"margin: 0 0 10px;font-size: 14.5px;opacity: .92\">The <strong>LuxDrive\u2122 A011 FlexBlock\u2122</strong> is a compact, fully potted, dual-mode constant-current LED driver built for real-world installs.<br />\nRun it in <strong>Buck-Boost</strong> mode (default) for LED loads above, below, or equal to supply voltage \u2014 or rewire for <strong>Boost-Only</strong> when you need up to <strong>48\u00a0VDC</strong> output from as little as <strong>10\u00a0VDC</strong>.</p>\n<div style=\"display: flex;gap: 8px;flex-wrap: wrap;margin: 12px 0 6px\"><span style=\"font-size: 13px;padding: 6px 10px;border-radius: 999px;background: #f5f5f5;border: 1px solid #ededed\">\u26a1 Dual-mode: Buck-Boost / Boost-Only</span><br />\n<span style=\"font-size: 13px;padding: 6px 10px;border-radius: 999px;background: #f5f5f5;border: 1px solid #ededed\">\ud83d\udd0c Input: 10\u201332\u00a0VDC</span><br />\n<span style=\"font-size: 13px;padding: 6px 10px;border-radius: 999px;background: #f5f5f5;border: 1px solid #ededed\">\u2b06\ufe0f Boost-Only: up to 48\u00a0VDC</span><br />\n<span style=\"font-size: 13px;padding: 6px 10px;border-radius: 999px;background: #f5f5f5;border: 1px solid #ededed\">\ud83c\udf9a\ufe0f 0\u201310\u00a0V dimming</span><br />\n<span style=\"font-size: 13px;padding: 6px 10px;border-radius: 999px;background: #f5f5f5;border: 1px solid #ededed\">\u2699\ufe0f 350/500/700\u00a0mA CC options</span><br />\n<span style=\"font-size: 13px;padding: 6px 10px;border-radius: 999px;background: #f5f5f5;border: 1px solid #ededed\">\ud83d\udee1\ufe0f Fully potted, low profile</span></div>\n<div style=\"margin-top: 10px;padding: 10px 12px;border-left: 4px solid #111;background: #fafafa;border-radius: 10px\"><strong>Built for:</strong> tight spaces, rugged installs, and applications needing <strong>fast response</strong> (flashing / strobing).</div>\n</div>\n<div style=\"flex: 1;min-width: 280px\">\n<h3 style=\"margin: 0 0 8px;font-size: 16px\">Why FlexBlock is a favourite</h3>\n<ul style=\"margin: 0;padding-left: 18px;line-height: 1.55\">\n<li><strong>Buck-Boost flexibility</strong> handles LED strings when supply voltage isn\u2019t a perfect match.</li>\n<li><strong>Boost-Only option</strong> for higher LED voltages (up to 48\u00a0VDC) from low input sources.</li>\n<li><strong>Fast current sensing</strong> suits flashing/strobing applications.</li>\n<li><strong>0\u201310\u00a0V dimming</strong> makes brightness control simple and system-friendly.</li>\n<li><strong>Fully potted + low profile</strong> for fast installs in tight enclosures.</li>\n</ul>\n<div style=\"margin-top: 12px;padding: 12px;border: 1px dashed #d9d9d9;border-radius: 12px;background: #fffdf5\">\n<div style=\"font-weight: bold;margin-bottom: 6px\">Modes at a glance</div>\n<div style=\"font-size: 14px;line-height: 1.45\"><strong>Buck-Boost (standard):</strong> LED load may be above, below, or equal to supply voltage.<br />\n<strong>Boost-Only:</strong> rewired mode; can output up to <strong>48\u00a0VDC</strong> from as little as <strong>10\u00a0VDC</strong>.</div>\n</div>\n</div>\n</div>\n<hr style=\"border: none;border-top: 1px solid #ededed;margin: 16px 0\" />\n<h3 style=\"margin: 0 0 10px;font-size: 16px\">Product selection (A011 series)</h3>\n<div style=\"overflow: auto;border: 1px solid #efefef;border-radius: 12px\">\n<table style=\"width: 100%;border-collapse: collapse;min-width: 820px\">\n<thead>\n<tr style=\"background: #f7f7f7\">\n<th style=\"text-align: left;padding: 10px;border-bottom: 1px solid #ededed\">Part Number</th>\n<th style=\"text-align: center;padding: 10px;border-bottom: 1px solid #ededed\">Input Min (VDC)</th>\n<th style=\"text-align: center;padding: 10px;border-bottom: 1px solid #ededed\">Input Max (VDC)</th>\n<th style=\"text-align: center;padding: 10px;border-bottom: 1px solid #ededed\">Current (mA)</th>\n<th style=\"text-align: center;padding: 10px;border-bottom: 1px solid #ededed\">Tol (\u00b1)</th>\n<th style=\"text-align: center;padding: 10px;border-bottom: 1px solid #ededed\">Eff. (%)</th>\n<th style=\"text-align: center;padding: 10px;border-bottom: 1px solid #ededed\">Max V (Buck-Boost)</th>\n<th style=\"text-align: center;padding: 10px;border-bottom: 1px solid #ededed\">Max V (Boost-Only)</th>\n<th style=\"text-align: center;padding: 10px;border-bottom: 1px solid #ededed\">Dimming (V)</th>\n<th style=\"text-align: left;padding: 10px;border-bottom: 1px solid #ededed\">Connection</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"padding: 10px;border-bottom: 1px solid #f0f0f0\"><strong>A011-D-V-350</strong></td>\n<td style=\"text-align: center;padding: 10px;border-bottom: 1px solid #f0f0f0\">10</td>\n<td style=\"text-align: center;padding: 10px;border-bottom: 1px solid #f0f0f0\">32</td>\n<td style=\"text-align: center;padding: 10px;border-bottom: 1px solid #f0f0f0\">350</td>\n<td style=\"text-align: center;padding: 10px;border-bottom: 1px solid #f0f0f0\">10%</td>\n<td style=\"text-align: center;padding: 10px;border-bottom: 1px solid #f0f0f0\">90</td>\n<td style=\"text-align: center;padding: 10px;border-bottom: 1px solid #f0f0f0\">48VDC \u2212 Vin</td>\n<td style=\"text-align: center;padding: 10px;border-bottom: 1px solid #f0f0f0\">48VDC</td>\n<td style=\"text-align: center;padding: 10px;border-bottom: 1px solid #f0f0f0\">0\u201310</td>\n<td style=\"padding: 10px;border-bottom: 1px solid #f0f0f0\">(6) 18AWG 6&#8243; coloured wires</td>\n</tr>\n<tr>\n<td style=\"padding: 10px;border-bottom: 1px solid #f0f0f0\"><strong>A011-D-V-500</strong></td>\n<td style=\"text-align: center;padding: 10px;border-bottom: 1px solid #f0f0f0\">10</td>\n<td style=\"text-align: center;padding: 10px;border-bottom: 1px solid #f0f0f0\">32</td>\n<td style=\"text-align: center;padding: 10px;border-bottom: 1px solid #f0f0f0\">500</td>\n<td style=\"text-align: center;padding: 10px;border-bottom: 1px solid #f0f0f0\">10%</td>\n<td style=\"text-align: center;padding: 10px;border-bottom: 1px solid #f0f0f0\">90</td>\n<td style=\"text-align: center;padding: 10px;border-bottom: 1px solid #f0f0f0\">48VDC \u2212 Vin</td>\n<td style=\"text-align: center;padding: 10px;border-bottom: 1px solid #f0f0f0\">48VDC</td>\n<td style=\"text-align: center;padding: 10px;border-bottom: 1px solid #f0f0f0\">0\u201310</td>\n<td style=\"padding: 10px;border-bottom: 1px solid #f0f0f0\">(6) 18AWG 6&#8243; coloured wires</td>\n</tr>\n<tr>\n<td style=\"padding: 10px\"><strong>A011-D-V-700</strong></td>\n<td style=\"text-align: center;padding: 10px\">10</td>\n<td style=\"text-align: center;padding: 10px\">32</td>\n<td style=\"text-align: center;padding: 10px\">700</td>\n<td style=\"text-align: center;padding: 10px\">10%</td>\n<td style=\"text-align: center;padding: 10px\">90</td>\n<td style=\"text-align: center;padding: 10px\">48VDC \u2212 Vin</td>\n<td style=\"text-align: center;padding: 10px\">48VDC</td>\n<td style=\"text-align: center;padding: 10px\">0\u201310</td>\n<td style=\"padding: 10px\">(6) 18AWG 6&#8243; coloured wires</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div style=\"margin-top: 14px;padding: 12px;border-radius: 12px;background: #f7fbff;border: 1px solid #e6f2ff\"><strong>Guide:</strong><br />\n<a style=\"text-decoration: underline\" href=\"https://www.cutter.com.au/driving-leds/led-drivers/\"><br />\nFlexBlock Buck-Boost DC LED Driver guide (wiring + usage)<br />\n</a></div>\n<h3 style=\"margin: 16px 0 10px;font-size: 16px\">Absolute maximum ratings (selected)</h3>\n<div style=\"overflow: auto;border: 1px solid #efefef;border-radius: 12px\">\n<table style=\"width: 100%;border-collapse: collapse;min-width: 520px\">\n<thead>\n<tr style=\"background: #f7f7f7\">\n<th style=\"text-align: left;padding: 10px;border-bottom: 1px solid #ededed\">Parameter</th>\n<th style=\"text-align: left;padding: 10px;border-bottom: 1px solid #ededed\">Maximum performance</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"padding: 10px;border-bottom: 1px solid #f0f0f0\">Dimming input, turn on threshold</td>\n<td style=\"padding: 10px;border-bottom: 1px solid #f0f0f0\">1.7V \u00b15%</td>\n</tr>\n<tr>\n<td style=\"padding: 10px;border-bottom: 1px solid #f0f0f0\">Dimming input, full on threshold</td>\n<td style=\"padding: 10px;border-bottom: 1px solid #f0f0f0\">9V \u00b15%</td>\n</tr>\n<tr>\n<td style=\"padding: 10px;border-bottom: 1px solid #f0f0f0\">External pot adjustment range</td>\n<td style=\"padding: 10px;border-bottom: 1px solid #f0f0f0\">0%, 5\u2013100%</td>\n</tr>\n<tr>\n<td style=\"padding: 10px;border-bottom: 1px solid #f0f0f0\">Output rise time</td>\n<td style=\"padding: 10px;border-bottom: 1px solid #f0f0f0\">&lt;2ms</td>\n</tr>\n<tr>\n<td style=\"padding: 10px;border-bottom: 1px solid #f0f0f0\">Output fall time</td>\n<td style=\"padding: 10px;border-bottom: 1px solid #f0f0f0\">&lt;100 \u00b5s</td>\n</tr>\n<tr>\n<td style=\"padding: 10px;border-bottom: 1px solid #f0f0f0\">Quiescent current (DIM = 0V)</td>\n<td style=\"padding: 10px;border-bottom: 1px solid #f0f0f0\">&lt;6 mA</td>\n</tr>\n<tr>\n<td style=\"padding: 10px;border-bottom: 1px solid #f0f0f0\">Storage temperature</td>\n<td style=\"padding: 10px;border-bottom: 1px solid #f0f0f0\">-40\u00b0C to 125\u00b0C</td>\n</tr>\n<tr>\n<td style=\"padding: 10px\">Operating temperature</td>\n<td style=\"padding: 10px\">-40\u00b0C to 80\u00b0C</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<div class=\"ctc-tooltip\"></div>",
+   "on_sale": false,
+   "prices": {
+    "price": "5800",
+    "regular_price": "5800",
+    "sale_price": "5800",
+    "price_range": {
+     "min_amount": "5800",
+     "max_amount": "6400"
+    },
+    "currency_code": "AUD",
+    "currency_symbol": "$",
+    "currency_minor_unit": 2,
+    "currency_decimal_separator": ".",
+    "currency_thousand_separator": ",",
+    "currency_prefix": "$",
+    "currency_suffix": ""
+   },
+   "price_html": "<span class=\"woocs_price_code\" data-currency=\"\" data-redraw-id=\"6ab1307a1eb95\" data-product-id=\"8622\"><span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><span class=\"woocommerce-Price-currencySymbol\">&#036;</span>58.00</span> <span aria-hidden=\"true\">&ndash;</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><span class=\"woocommerce-Price-currencySymbol\">&#036;</span>64.00</span><span class=\"screen-reader-text\">Price range: &#036;58.00 through &#036;64.00</span> <small class=\"woocommerce-price-suffix\">EX GST</small></span>",
+   "average_rating": "0",
+   "review_count": 0,
+   "images": [
+    {
+     "id": 33752,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1.jpg 1024w, https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1-800x800.jpg 800w, https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1-32x32.jpg 32w",
+     "sizes": "(max-width: 1024px) 100vw, 1024px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1-800x800.jpg 800w, https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1-32x32.jpg 32w, https://www.cutter.com.au/wp-content/uploads/2018/08/flexblock-1.jpg 1024w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "flexblock",
+     "alt": "A011 FlexBlock Buck-Boost DC LED Driver"
+    }
+   ],
+   "categories": [
+    {
+     "id": 238,
+     "name": "Boost",
+     "slug": "boost-led-driver-luxdrive-led-drivers",
+     "link": "https://www.cutter.com.au/product-category/led-drivers/luxdrive-led-drivers/boost-led-driver-luxdrive-led-drivers/"
+    }
+   ],
+   "tags": [
+    {
+     "id": 4663,
+     "name": "0-10v dimming driver",
+     "slug": "0-10v-dimming-driver",
+     "link": "https://www.cutter.com.au/product-tag/0-10v-dimming-driver/"
+    },
+    {
+     "id": 4665,
+     "name": "10-32v dc led driver",
+     "slug": "10-32v-dc-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/10-32v-dc-led-driver/"
+    },
+    {
+     "id": 676,
+     "name": "350ma led driver",
+     "slug": "350ma-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/350ma-led-driver/"
+    },
+    {
+     "id": 4666,
+     "name": "48v boost driver",
+     "slug": "48v-boost-driver",
+     "link": "https://www.cutter.com.au/product-tag/48v-boost-driver/"
+    },
+    {
+     "id": 4664,
+     "name": "500ma led driver",
+     "slug": "500ma-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/500ma-led-driver/"
+    },
+    {
+     "id": 679,
+     "name": "700ma led driver",
+     "slug": "700ma-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/700ma-led-driver/"
+    },
+    {
+     "id": 4672,
+     "name": "automotive led driver",
+     "slug": "automotive-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/automotive-led-driver/"
+    },
+    {
+     "id": 4661,
+     "name": "boost only led driver",
+     "slug": "boost-only-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/boost-only-led-driver/"
+    },
+    {
+     "id": 4660,
+     "name": "buck boost led driver",
+     "slug": "buck-boost-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/buck-boost-led-driver/"
+    },
+    {
+     "id": 4662,
+     "name": "constant current led driver",
+     "slug": "constant-current-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/constant-current-led-driver/"
+    },
+    {
+     "id": 352,
+     "name": "dc dc led driver",
+     "slug": "dc-dc-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/dc-dc-led-driver/"
+    },
+    {
+     "id": 4670,
+     "name": "flashing led driver",
+     "slug": "flashing-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/flashing-led-driver/"
+    },
+    {
+     "id": 4659,
+     "name": "flexblock led driver",
+     "slug": "flexblock-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/flexblock-led-driver/"
+    },
+    {
+     "id": 4671,
+     "name": "high brightness led driver",
+     "slug": "high-brightness-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/high-brightness-led-driver/"
+    },
+    {
+     "id": 2436,
+     "name": "LED driver module",
+     "slug": "led-driver-module",
+     "link": "https://www.cutter.com.au/product-tag/led-driver-module/"
+    },
+    {
+     "id": 4668,
+     "name": "low profile led driver",
+     "slug": "low-profile-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/low-profile-led-driver/"
+    },
+    {
+     "id": 4658,
+     "name": "luxdrive a011",
+     "slug": "luxdrive-a011",
+     "link": "https://www.cutter.com.au/product-tag/luxdrive-a011/"
+    },
+    {
+     "id": 4673,
+     "name": "portable lighting driver",
+     "slug": "portable-lighting-driver",
+     "link": "https://www.cutter.com.au/product-tag/portable-lighting-driver/"
+    },
+    {
+     "id": 4667,
+     "name": "potted led driver",
+     "slug": "potted-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/potted-led-driver/"
+    },
+    {
+     "id": 4669,
+     "name": "strobe led driver",
+     "slug": "strobe-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/strobe-led-driver/"
+    }
+   ],
+   "brands": [],
+   "attributes": [
+    {
+     "id": 8,
+     "name": "Drive Current",
+     "taxonomy": "pa_drive-current",
+     "has_variations": true,
+     "terms": [
+      {
+       "id": 309,
+       "name": "350ma",
+       "slug": "350-ma"
+      },
+      {
+       "id": 310,
+       "name": "500ma",
+       "slug": "500-ma"
+      },
+      {
+       "id": 311,
+       "name": "700ma",
+       "slug": "700-ma"
+      }
+     ]
+    },
+    {
+     "id": 53,
+     "name": "Dimming Version",
+     "taxonomy": "pa_dimming-version",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1704,
+       "name": "1-10V",
+       "slug": "1-10v"
+      },
+      {
+       "id": 1708,
+       "name": "Resistive(Pot)",
+       "slug": "resistive-pot"
+      }
+     ]
+    }
+   ],
+   "variations": [
+    {
+     "id": 8623,
+     "attributes": [
+      {
+       "name": "Drive Current",
+       "value": "700-ma"
+      }
+     ]
+    },
+    {
+     "id": 8624,
+     "attributes": [
+      {
+       "name": "Drive Current",
+       "value": "500-ma"
+      }
+     ]
+    },
+    {
+     "id": 8625,
+     "attributes": [
+      {
+       "name": "Drive Current",
+       "value": "350-ma"
+      }
+     ]
+    }
+   ],
+   "grouped_products": [],
+   "has_options": true,
+   "is_purchasable": true,
+   "is_in_stock": true,
+   "is_on_backorder": true,
+   "low_stock_remaining": 0,
+   "stock_availability": {
+    "text": "Available on back-order",
+    "class": "available-on-backorder"
+   },
+   "sold_individually": false,
+   "weight": "0.09",
+   "dimensions": {
+    "length": "50",
+    "width": "12",
+    "height": "5"
+   },
+   "formatted_weight": "0.09 kg",
+   "formatted_dimensions": "50 \u00d7 12 \u00d7 5 mm",
+   "add_to_cart": {
+    "text": "Select options",
+    "description": "Select options for &ldquo;A011 FlexBlock Buck-Boost DC LED Driver&rdquo;",
+    "url": "https://www.cutter.com.au/product/flexblock-buck-boost-dc-led-driver/",
+    "single_text": "Add to cart",
+    "minimum": 1,
+    "maximum": 9999,
+    "multiple_of": 1
+   },
+   "is_password_protected": false,
+   "extensions": {},
+   "_links": {
+    "self": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products/8622",
+      "targetHints": {
+       "allow": [
+        "GET"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products"
+     }
+    ],
+    "upsells": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?include=8632,16151,2168,2173,2164"
+     }
+    ],
+    "cross_sells": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?include=8632,16151,2164,2173,2168"
+     }
+    ],
+    "related": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?related=8622&per_page=10"
+     }
+    ]
+   }
+  },
+  {
+   "id": 8615,
+   "name": "A009 BuckBlock DC LED Driver",
+   "slug": "buckblock-dc-led-driver",
+   "parent": 0,
+   "type": "variable",
+   "variation": "",
+   "permalink": "https://www.cutter.com.au/product/buckblock-dc-led-driver/",
+   "sku": "",
+   "short_description": "",
+   "description": "<p><b>Description</b></p>\n<p>The LuxDrive\u2122 A009 series BuckBlock\u2122 LED power modules are high output wide range constant current LED drivers for powering high-brightness (HB) LEDs at constant high-output currents. Where standard power supplies deliver a fixed voltage to the output, the BuckBlock is engineered to produce a fixed current. The output voltage will adjust as required to maintain the specified output current with differing forward voltage drops of LEDs. The BuckBlock features a fast response current-sensing circuit enabling the device to flash or strobe LEDs and the output from the BuckBlock includes external dimming using common 0-10V low voltage dimmers. The form factor of the BuckBlock is extremely low profile, fully potted and comes with six inch 18AWG colored leads, making installation into tight spaces fast and easy.</p>\n<p>Product Selection</p>\n<table class=\"char\">\n<thead>\n<tr>\n<th rowspan=\"2\">Part<br />\nNumber</th>\n<th colspan=\"2\">DC Input (V<sub>DC</sub>)</th>\n<th colspan=\"4\">Output</th>\n<th rowspan=\"2\">Control<br />\nDimming<br />\n(V)</th>\n<th rowspan=\"2\">Connection<br />\nType</th>\n</tr>\n<tr>\n<th>Min.</th>\n<th>Max.</th>\n<th>Current<br />\nmA</th>\n<th>Tolerance<br />\n(\u00b1)</th>\n<th>Efficiency<br />\n(%)</th>\n<th>Max Voltage</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A009-D-V-1000</td>\n<td>10</td>\n<td>32</td>\n<td>1000</td>\n<td>10%</td>\n<td>90</td>\n<td>80% of Vin</td>\n<td>0-10</td>\n<td>(6) 18AWG 6&#8243; Wires</td>\n</tr>\n<tr>\n<td>A009-D-V-1400</td>\n<td>10</td>\n<td>32</td>\n<td>1400</td>\n<td>10%</td>\n<td>90</td>\n<td>75% of Vin</td>\n<td>0-10</td>\n<td>(6) 18AWG 6&#8243; Wires</td>\n</tr>\n<tr>\n<td>A009-D-V-2100</td>\n<td>10</td>\n<td>32</td>\n<td>2100</td>\n<td>10%</td>\n<td>90</td>\n<td>50% of Vin</td>\n<td>0-10</td>\n<td>(6) 18AWG 6&#8243; Wires</td>\n</tr>\n</tbody>\n</table>\n<p>Absolute Maximum Ratings</p>\n<table class=\"max\">\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Maximum Performance</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Dimming Input, turn on threshold</td>\n<td>1.7V \u00b15%</td>\n</tr>\n<tr>\n<td>Dimming Input, full on threshold</td>\n<td>9V \u00b15%</td>\n</tr>\n<tr>\n<td>External pot adjustment range</td>\n<td>0%, 5-100%</td>\n</tr>\n<tr>\n<td>Output rise time</td>\n<td>&lt;1.5ms</td>\n</tr>\n<tr>\n<td>Output fall time</td>\n<td>&lt;100 \u00b5s</td>\n</tr>\n<tr>\n<td>Quiescent current (DIM = 0V)</td>\n<td>&lt;4.5 mA</td>\n</tr>\n<tr>\n<td>Storage Temperature</td>\n<td>-40\u00b0C &#8211; 125\u00b0C</td>\n</tr>\n<tr>\n<td>Operating Temperature</td>\n<td>-40\u00b0C &#8211; 80\u00b0C</td>\n</tr>\n</tbody>\n</table>",
+   "on_sale": false,
+   "prices": {
+    "price": "4900",
+    "regular_price": "4900",
+    "sale_price": "4900",
+    "price_range": null,
+    "currency_code": "AUD",
+    "currency_symbol": "$",
+    "currency_minor_unit": 2,
+    "currency_decimal_separator": ".",
+    "currency_thousand_separator": ",",
+    "currency_prefix": "$",
+    "currency_suffix": ""
+   },
+   "price_html": "<span class=\"woocs_price_code\" data-currency=\"\" data-redraw-id=\"6ab1307a370dd\" data-product-id=\"8615\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#036;</span>49.00</span> <small class=\"woocommerce-price-suffix\">EX GST</small></span>",
+   "average_rating": "0",
+   "review_count": 0,
+   "images": [
+    {
+     "id": 8616,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2018/08/a009.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2018/08/a009-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2018/08/a009.jpg 800w, https://www.cutter.com.au/wp-content/uploads/2018/08/a009-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2018/08/a009-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2018/08/a009-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2018/08/a009-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2018/08/a009-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2018/08/a009-100x100.jpg 100w",
+     "sizes": "(max-width: 800px) 100vw, 800px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2018/08/a009-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2018/08/a009-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2018/08/a009-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2018/08/a009-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2018/08/a009.jpg 800w, https://www.cutter.com.au/wp-content/uploads/2018/08/a009-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2018/08/a009-100x100.jpg 100w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "a009",
+     "alt": "A009 Buck driver"
+    }
+   ],
+   "categories": [
+    {
+     "id": 237,
+     "name": "Buck",
+     "slug": "buck-led-driver-luxdrive-led-drivers",
+     "link": "https://www.cutter.com.au/product-category/led-drivers/luxdrive-led-drivers/buck-led-driver-luxdrive-led-drivers/"
+    }
+   ],
+   "tags": [
+    {
+     "id": 1127,
+     "name": "led buck driver",
+     "slug": "led-buck-driver",
+     "link": "https://www.cutter.com.au/product-tag/led-buck-driver/"
+    }
+   ],
+   "brands": [],
+   "attributes": [
+    {
+     "id": 8,
+     "name": "Drive Current",
+     "taxonomy": "pa_drive-current",
+     "has_variations": true,
+     "terms": [
+      {
+       "id": 312,
+       "name": "1000ma",
+       "slug": "1000-ma"
+      },
+      {
+       "id": 314,
+       "name": "1400ma",
+       "slug": "1400-ma"
+      },
+      {
+       "id": 1126,
+       "name": "2100ma",
+       "slug": "2100ma"
+      }
+     ]
+    },
+    {
+     "id": 53,
+     "name": "Dimming Version",
+     "taxonomy": "pa_dimming-version",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1704,
+       "name": "1-10V",
+       "slug": "1-10v"
+      }
+     ]
+    }
+   ],
+   "variations": [
+    {
+     "id": 8617,
+     "attributes": [
+      {
+       "name": "Drive Current",
+       "value": "2100ma"
+      }
+     ]
+    },
+    {
+     "id": 8619,
+     "attributes": [
+      {
+       "name": "Drive Current",
+       "value": "1000-ma"
+      }
+     ]
+    },
+    {
+     "id": 8618,
+     "attributes": [
+      {
+       "name": "Drive Current",
+       "value": "1400-ma"
+      }
+     ]
+    }
+   ],
+   "grouped_products": [],
+   "has_options": true,
+   "is_purchasable": true,
+   "is_in_stock": true,
+   "is_on_backorder": false,
+   "low_stock_remaining": null,
+   "stock_availability": {
+    "text": "20 in stock (can be backordered)",
+    "class": "in-stock"
+   },
+   "sold_individually": false,
+   "weight": "0.09",
+   "dimensions": {
+    "length": "20",
+    "width": "12",
+    "height": "5"
+   },
+   "formatted_weight": "0.09 kg",
+   "formatted_dimensions": "20 \u00d7 12 \u00d7 5 mm",
+   "add_to_cart": {
+    "text": "Select options",
+    "description": "Select options for &ldquo;A009 BuckBlock DC LED Driver&rdquo;",
+    "url": "https://www.cutter.com.au/product/buckblock-dc-led-driver/",
+    "single_text": "Add to cart",
+    "minimum": 1,
+    "maximum": 9999,
+    "multiple_of": 1
+   },
+   "is_password_protected": false,
+   "extensions": {},
+   "_links": {
+    "self": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products/8615",
+      "targetHints": {
+       "allow": [
+        "GET"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products"
+     }
+    ],
+    "related": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?related=8615&per_page=10"
+     }
+    ]
+   }
+  },
+  {
+   "id": 1839,
+   "name": "RCD-24-1.20/W/X3 Recom DC DC Led Driver",
+   "slug": "rcd-24-1-20-w-x3-recom-dc-dc-led-driver",
+   "parent": 0,
+   "type": "simple",
+   "variation": "",
+   "permalink": "https://www.cutter.com.au/product/rcd-24-1-20-w-x3-recom-dc-dc-led-driver/",
+   "sku": "RCD-24-1.20/W/X3",
+   "short_description": "<p>The RCD series is a step-down constant current source designed for driving high power white LEDs.<br />\nStandard output currents available are 300mA, 350mA, 500mA, 600mA, 700mA, 1000mA and 1200mA, Dimmable Version X3 is both Analog and Digital dimming topology</p>",
+   "description": "<div class=\"media-body\">\n<h3>Description</h3>\n<p>RCD-24-1.20/W/X3. 1.20A, Wired, Dimming Analog, PWM</p>\n<p>The RCD series is a step-down constant current source designed for driving high power white LEDs.<br />\nStandard output currents available are 300mA, 350mA, 500mA, 600mA, 700mA, 1000mA and 1200mA to make this driver compatible with a wide range of LEDs applications. Despite its compact size, the RCD series is fully featured with very high efficiency, wide input voltage range, high ambient operating temperature and two means of dimming: PWM/digital control and analogue voltage dimming. Both dimming controls are independent and can be combined. The driver is also designed to be as reliable as the LEDs it is driving, even at the full operating temperature. Options include an IP67-rated wired version (/W) and a version with built-in reference output voltage (/Vref) to power sensors or for easy analogue dimming.</p>\n<p>Dimmable Version</p>\n<p><a class=\"hvr-sweep-to-right btn-sm\" href=\"https://www.recom-power.com/pdf/Lightline/RCD-24.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Datasheet</a></p>\n</div>\n<div class=\"media-body tx-recom-paramsearch-media-body-right\">\n<p>&#8211; UL/ RAILWAYS Certified Constant Current LED Driver<br />\n&#8211; Wide Input and Output Voltage Range<br />\n&#8211; Digital PWM and Analogue Voltage Dimming<br />\n&#8211; Short Circuit Protected<br />\n&#8211; Pinned or Wired Versions<br />\n&#8211; IP67 rated for /W Version<br />\n&#8211; 96% Efficiency<br />\n&#8211; 5 year Warranty</p>\n</div>",
+   "on_sale": false,
+   "prices": {
+    "price": "7494",
+    "regular_price": "7494",
+    "sale_price": "7494",
+    "price_range": null,
+    "currency_code": "AUD",
+    "currency_symbol": "$",
+    "currency_minor_unit": 2,
+    "currency_decimal_separator": ".",
+    "currency_thousand_separator": ",",
+    "currency_prefix": "$",
+    "currency_suffix": ""
+   },
+   "price_html": "<span class=\"woocs_price_code\" data-currency=\"\" data-redraw-id=\"6ab1307a3e193\" data-product-id=\"1839\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#036;</span>74.94</span> <small class=\"woocommerce-price-suffix\">EX GST</small></span>",
+   "average_rating": "0",
+   "review_count": 0,
+   "images": [
+    {
+     "id": 33938,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage.jpg 1007w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-449x400.jpg 449w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-898x800.jpg 898w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-768x684.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-600x534.jpg 600w",
+     "sizes": "(max-width: 1007px) 100vw, 1007px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-32x32.jpg 32w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "rcdimage",
+     "alt": "X3 Recom DC DC Led Driver"
+    },
+    {
+     "id": 16326,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin.jpg 800w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-32x32.jpg 32w",
+     "sizes": "(max-width: 800px) 100vw, 800px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin.jpg 800w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-32x32.jpg 32w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "rcdpin",
+     "alt": "X3 Recom DC DC Led Driver"
+    }
+   ],
+   "categories": [
+    {
+     "id": 232,
+     "name": "Buck",
+     "slug": "buck-led-driver",
+     "link": "https://www.cutter.com.au/product-category/led-drivers/recom-lighting/dc-dc-led-drivers/buck-led-driver/"
+    }
+   ],
+   "tags": [
+    {
+     "id": 577,
+     "name": "analog dimming DC DC led driver",
+     "slug": "analog-dimming-dc-dc-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/analog-dimming-dc-dc-led-driver/"
+    },
+    {
+     "id": 353,
+     "name": "buck driver",
+     "slug": "buck-driver",
+     "link": "https://www.cutter.com.au/product-tag/buck-driver/"
+    },
+    {
+     "id": 352,
+     "name": "dc dc led driver",
+     "slug": "dc-dc-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/dc-dc-led-driver/"
+    },
+    {
+     "id": 576,
+     "name": "digital dimming dc dc led driver",
+     "slug": "digital-dimming-dc-dc-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/digital-dimming-dc-dc-led-driver/"
+    },
+    {
+     "id": 363,
+     "name": "RCD-24",
+     "slug": "rcd-24",
+     "link": "https://www.cutter.com.au/product-tag/rcd-24/"
+    }
+   ],
+   "brands": [],
+   "attributes": [
+    {
+     "id": 8,
+     "name": "Drive Current",
+     "taxonomy": "pa_drive-current",
+     "has_variations": true,
+     "terms": [
+      {
+       "id": 313,
+       "name": "1200ma",
+       "slug": "1200-ma"
+      }
+     ]
+    },
+    {
+     "id": 53,
+     "name": "Dimming Version",
+     "taxonomy": "pa_dimming-version",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1711,
+       "name": "PWM",
+       "slug": "pwm"
+      },
+      {
+       "id": 1708,
+       "name": "Resistive(Pot)",
+       "slug": "resistive-pot"
+      }
+     ]
+    },
+    {
+     "id": 57,
+     "name": "Led Driver Manufacturer",
+     "taxonomy": "pa_led-driver-manfacturer",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1994,
+       "name": "Recom",
+       "slug": "recom"
+      }
+     ]
+    }
+   ],
+   "variations": [],
+   "grouped_products": [],
+   "has_options": false,
+   "is_purchasable": true,
+   "is_in_stock": true,
+   "is_on_backorder": false,
+   "low_stock_remaining": null,
+   "stock_availability": {
+    "text": "21 in stock",
+    "class": "in-stock"
+   },
+   "sold_individually": false,
+   "weight": "0.05",
+   "dimensions": {
+    "length": "25",
+    "width": "15",
+    "height": "10"
+   },
+   "formatted_weight": "0.05 kg",
+   "formatted_dimensions": "25 \u00d7 15 \u00d7 10 mm",
+   "add_to_cart": {
+    "text": "Add to cart",
+    "description": "Add to cart: &ldquo;RCD-24-1.20/W/X3 Recom DC DC Led Driver&rdquo;",
+    "url": "/wp-json/wc/store/v1/products?search=led+driver&#038;page=1&#038;per_page=24&#038;add-to-cart=1839",
+    "single_text": "Add to cart",
+    "minimum": 1,
+    "maximum": 9999,
+    "multiple_of": 1
+   },
+   "is_password_protected": false,
+   "extensions": {},
+   "_links": {
+    "self": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products/1839",
+      "targetHints": {
+       "allow": [
+        "GET"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products"
+     }
+    ],
+    "related": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?related=1839&per_page=10"
+     }
+    ]
+   }
+  },
+  {
+   "id": 1696,
+   "name": "RCD-24 DC/DC Led Driver wired",
+   "slug": "rcd-24-dc-dc-led-driver-wired",
+   "parent": 0,
+   "type": "variable",
+   "variation": "",
+   "permalink": "https://www.cutter.com.au/product/rcd-24-dc-dc-led-driver-wired/",
+   "sku": "",
+   "short_description": "<p>The RCD series is a step-down constant current source designed for driving high power white LEDs.<br />\nStandard output currents available are 300mA, 350mA, 500mA, 600mA, 700mA, 1000mA and 1200mA</p>",
+   "description": "<div class=\"media-body\">\n<p>The RCD series is a step-down constant current source designed for driving high power white LEDs.<br />\nStandard output currents available are 300mA, 350mA, 500mA, 600mA, 700mA, 1000mA and 1200mA to make this driver compatible with a wide range of LEDs applications. Despite its compact size, the RCD series is fully featured with very high efficiency, wide input voltage range, high ambient operating temperature and two means of dimming: PWM/digital control and analogue voltage dimming. Both dimming controls are independent and can be combined. The driver is also designed to be as reliable as the LEDs it is driving, even at the full operating temperature. Options include an IP67-rated wired version (/W) and a version with built-in reference output voltage (/Vref) to power sensors or for easy analogue dimming.</p>\n<p><a class=\"hvr-sweep-to-right btn-sm\" href=\"https://www.recom-power.com/pdf/Lightline/RCD-24.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Datasheet</a></p>\n</div>\n<div class=\"media-body tx-recom-paramsearch-media-body-right\">\n<p>&#8211; UL/ RAILWAYS Certified Constant Current LED Driver<br />\n&#8211; Wide Input and Output Voltage Range<br />\n&#8211; Digital PWM and Analogue Voltage Dimming<br />\n&#8211; Short Circuit Protected<br />\n&#8211; Pinned or Wired Versions<br />\n&#8211; IP67 rated for /W Version<br />\n&#8211; 96% Efficiency<br />\n&#8211; 5 year Warranty</p>\n</div>",
+   "on_sale": false,
+   "prices": {
+    "price": "2650",
+    "regular_price": "2650",
+    "sale_price": "2650",
+    "price_range": null,
+    "currency_code": "AUD",
+    "currency_symbol": "$",
+    "currency_minor_unit": 2,
+    "currency_decimal_separator": ".",
+    "currency_thousand_separator": ",",
+    "currency_prefix": "$",
+    "currency_suffix": ""
+   },
+   "price_html": "<span class=\"woocs_price_code\" data-currency=\"\" data-redraw-id=\"6ab1307a5f2e6\" data-product-id=\"1696\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#036;</span>26.50</span> <small class=\"woocommerce-price-suffix\">EX GST</small></span>",
+   "average_rating": "0",
+   "review_count": 0,
+   "images": [
+    {
+     "id": 33938,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage.jpg 1007w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-449x400.jpg 449w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-898x800.jpg 898w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-768x684.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-600x534.jpg 600w",
+     "sizes": "(max-width: 1007px) 100vw, 1007px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-32x32.jpg 32w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "rcdimage",
+     "alt": "X3 Recom DC DC Led Driver"
+    },
+    {
+     "id": 16326,
+     "src": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin.jpg",
+     "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-300x300.jpg",
+     "srcset": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin.jpg 800w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-32x32.jpg 32w",
+     "sizes": "(max-width: 800px) 100vw, 800px",
+     "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin.jpg 800w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-32x32.jpg 32w",
+     "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+     "name": "rcdpin",
+     "alt": "X3 Recom DC DC Led Driver"
+    }
+   ],
+   "categories": [
+    {
+     "id": 232,
+     "name": "Buck",
+     "slug": "buck-led-driver",
+     "link": "https://www.cutter.com.au/product-category/led-drivers/recom-lighting/dc-dc-led-drivers/buck-led-driver/"
+    }
+   ],
+   "tags": [
+    {
+     "id": 353,
+     "name": "buck driver",
+     "slug": "buck-driver",
+     "link": "https://www.cutter.com.au/product-tag/buck-driver/"
+    },
+    {
+     "id": 352,
+     "name": "dc dc led driver",
+     "slug": "dc-dc-led-driver",
+     "link": "https://www.cutter.com.au/product-tag/dc-dc-led-driver/"
+    },
+    {
+     "id": 363,
+     "name": "RCD-24",
+     "slug": "rcd-24",
+     "link": "https://www.cutter.com.au/product-tag/rcd-24/"
+    }
+   ],
+   "brands": [],
+   "attributes": [
+    {
+     "id": 8,
+     "name": "Drive Current",
+     "taxonomy": "pa_drive-current",
+     "has_variations": true,
+     "terms": [
+      {
+       "id": 312,
+       "name": "1000ma",
+       "slug": "1000-ma"
+      },
+      {
+       "id": 313,
+       "name": "1200ma",
+       "slug": "1200-ma"
+      },
+      {
+       "id": 309,
+       "name": "350ma",
+       "slug": "350-ma"
+      },
+      {
+       "id": 310,
+       "name": "500ma",
+       "slug": "500-ma"
+      },
+      {
+       "id": 311,
+       "name": "700ma",
+       "slug": "700-ma"
+      }
+     ]
+    },
+    {
+     "id": 57,
+     "name": "Led Driver Manufacturer",
+     "taxonomy": "pa_led-driver-manfacturer",
+     "has_variations": false,
+     "terms": [
+      {
+       "id": 1994,
+       "name": "Recom",
+       "slug": "recom"
+      }
+     ]
+    }
+   ],
+   "variations": [
+    {
+     "id": 1698,
+     "attributes": [
+      {
+       "name": "Drive Current",
+       "value": "1000-ma"
+      }
+     ]
+    },
+    {
+     "id": 1699,
+     "attributes": [
+      {
+       "name": "Drive Current",
+       "value": "1200-ma"
+      }
+     ]
+    },
+    {
+     "id": 1700,
+     "attributes": [
+      {
+       "name": "Drive Current",
+       "value": "350-ma"
+      }
+     ]
+    },
+    {
+     "id": 1701,
+     "attributes": [
+      {
+       "name": "Drive Current",
+       "value": "500-ma"
+      }
+     ]
+    },
+    {
+     "id": 1702,
+     "attributes": [
+      {
+       "name": "Drive Current",
+       "value": "700-ma"
+      }
+     ]
+    }
+   ],
+   "grouped_products": [],
+   "has_options": true,
+   "is_purchasable": true,
+   "is_in_stock": true,
+   "is_on_backorder": true,
+   "low_stock_remaining": 0,
+   "stock_availability": {
+    "text": "Available on back-order",
+    "class": "available-on-backorder"
+   },
+   "sold_individually": false,
+   "weight": "",
+   "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+   },
+   "formatted_weight": "N/A",
+   "formatted_dimensions": "N/A",
+   "add_to_cart": {
+    "text": "Select options",
+    "description": "Select options for &ldquo;RCD-24 DC/DC Led Driver wired&rdquo;",
+    "url": "https://www.cutter.com.au/product/rcd-24-dc-dc-led-driver-wired/",
+    "single_text": "Add to cart",
+    "minimum": 1,
+    "maximum": 9999,
+    "multiple_of": 1
+   },
+   "is_password_protected": false,
+   "extensions": {},
+   "_links": {
+    "self": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products/1696",
+      "targetHints": {
+       "allow": [
+        "GET"
+       ]
+      }
+     }
+    ],
+    "collection": [
+     {
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products"
+     }
+    ],
+    "related": [
+     {
+      "embeddable": true,
+      "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?related=1696&per_page=10"
+     }
+    ]
+   }
+  }
+ ]
+}

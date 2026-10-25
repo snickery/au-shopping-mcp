@@ -1,0 +1,230 @@
+{
+ "id": 1696,
+ "name": "RCD-24 DC/DC Led Driver wired",
+ "slug": "rcd-24-dc-dc-led-driver-wired",
+ "parent": 0,
+ "type": "variable",
+ "variation": "",
+ "permalink": "https://www.cutter.com.au/product/rcd-24-dc-dc-led-driver-wired/",
+ "sku": "",
+ "short_description": "<p>The RCD series is a step-down constant current source designed for driving high power white LEDs.<br />\nStandard output currents available are 300mA, 350mA, 500mA, 600mA, 700mA, 1000mA and 1200mA</p>",
+ "description": "<div class=\"media-body\">\n<p>The RCD series is a step-down constant current source designed for driving high power white LEDs.<br />\nStandard output currents available are 300mA, 350mA, 500mA, 600mA, 700mA, 1000mA and 1200mA to make this driver compatible with a wide range of LEDs applications. Despite its compact size, the RCD series is fully featured with very high efficiency, wide input voltage range, high ambient operating temperature and two means of dimming: PWM/digital control and analogue voltage dimming. Both dimming controls are independent and can be combined. The driver is also designed to be as reliable as the LEDs it is driving, even at the full operating temperature. Options include an IP67-rated wired version (/W) and a version with built-in reference output voltage (/Vref) to power sensors or for easy analogue dimming.</p>\n<p><a class=\"hvr-sweep-to-right btn-sm\" href=\"https://www.recom-power.com/pdf/Lightline/RCD-24.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Datasheet</a></p>\n</div>\n<div class=\"media-body tx-recom-paramsearch-media-body-right\">\n<p>&#8211; UL/ RAILWAYS Certified Constant Current LED Driver<br />\n&#8211; Wide Input and Output Voltage Range<br />\n&#8211; Digital PWM and Analogue Voltage Dimming<br />\n&#8211; Short Circuit Protected<br />\n&#8211; Pinned or Wired Versions<br />\n&#8211; IP67 rated for /W Version<br />\n&#8211; 96% Efficiency<br />\n&#8211; 5 year Warranty</p>\n</div>",
+ "on_sale": false,
+ "prices": {
+  "price": "2650",
+  "regular_price": "2650",
+  "sale_price": "2650",
+  "price_range": null,
+  "currency_code": "AUD",
+  "currency_symbol": "$",
+  "currency_minor_unit": 2,
+  "currency_decimal_separator": ".",
+  "currency_thousand_separator": ",",
+  "currency_prefix": "$",
+  "currency_suffix": ""
+ },
+ "price_html": "<span class=\"woocs_price_code\" data-currency=\"\" data-redraw-id=\"6ab1307c54025\" data-product-id=\"1696\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#036;</span>26.50</span> <small class=\"woocommerce-price-suffix\">EX GST</small></span>",
+ "average_rating": "0",
+ "review_count": 0,
+ "images": [
+  {
+   "id": 33938,
+   "src": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage.jpg",
+   "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-300x300.jpg",
+   "srcset": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage.jpg 1007w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-449x400.jpg 449w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-898x800.jpg 898w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-768x684.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-600x534.jpg 600w",
+   "sizes": "(max-width: 1007px) 100vw, 1007px",
+   "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdimage-32x32.jpg 32w",
+   "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+   "name": "rcdimage",
+   "alt": "X3 Recom DC DC Led Driver"
+  },
+  {
+   "id": 16326,
+   "src": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin.jpg",
+   "thumbnail": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-300x300.jpg",
+   "srcset": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin.jpg 800w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-32x32.jpg 32w",
+   "sizes": "(max-width: 800px) 100vw, 800px",
+   "thumbnail_srcset": "https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-300x300.jpg 300w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-280x280.jpg 280w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-400x400.jpg 400w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-768x768.jpg 768w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin.jpg 800w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-600x600.jpg 600w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-100x100.jpg 100w, https://www.cutter.com.au/wp-content/uploads/2019/09/rcdpin-32x32.jpg 32w",
+   "thumbnail_sizes": "(max-width: 300px) 100vw, 300px",
+   "name": "rcdpin",
+   "alt": "X3 Recom DC DC Led Driver"
+  }
+ ],
+ "categories": [
+  {
+   "id": 232,
+   "name": "Buck",
+   "slug": "buck-led-driver",
+   "link": "https://www.cutter.com.au/product-category/led-drivers/recom-lighting/dc-dc-led-drivers/buck-led-driver/"
+  }
+ ],
+ "tags": [
+  {
+   "id": 353,
+   "name": "buck driver",
+   "slug": "buck-driver",
+   "link": "https://www.cutter.com.au/product-tag/buck-driver/"
+  },
+  {
+   "id": 352,
+   "name": "dc dc led driver",
+   "slug": "dc-dc-led-driver",
+   "link": "https://www.cutter.com.au/product-tag/dc-dc-led-driver/"
+  },
+  {
+   "id": 363,
+   "name": "RCD-24",
+   "slug": "rcd-24",
+   "link": "https://www.cutter.com.au/product-tag/rcd-24/"
+  }
+ ],
+ "brands": [],
+ "attributes": [
+  {
+   "id": 8,
+   "name": "Drive Current",
+   "taxonomy": "pa_drive-current",
+   "has_variations": true,
+   "terms": [
+    {
+     "id": 312,
+     "name": "1000ma",
+     "slug": "1000-ma"
+    },
+    {
+     "id": 313,
+     "name": "1200ma",
+     "slug": "1200-ma"
+    },
+    {
+     "id": 309,
+     "name": "350ma",
+     "slug": "350-ma"
+    },
+    {
+     "id": 310,
+     "name": "500ma",
+     "slug": "500-ma"
+    },
+    {
+     "id": 311,
+     "name": "700ma",
+     "slug": "700-ma"
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "name": "Led Driver Manufacturer",
+   "taxonomy": "pa_led-driver-manfacturer",
+   "has_variations": false,
+   "terms": [
+    {
+     "id": 1994,
+     "name": "Recom",
+     "slug": "recom"
+    }
+   ]
+  }
+ ],
+ "variations": [
+  {
+   "id": 1698,
+   "attributes": [
+    {
+     "name": "Drive Current",
+     "value": "1000-ma"
+    }
+   ]
+  },
+  {
+   "id": 1699,
+   "attributes": [
+    {
+     "name": "Drive Current",
+     "value": "1200-ma"
+    }
+   ]
+  },
+  {
+   "id": 1700,
+   "attributes": [
+    {
+     "name": "Drive Current",
+     "value": "350-ma"
+    }
+   ]
+  },
+  {
+   "id": 1701,
+   "attributes": [
+    {
+     "name": "Drive Current",
+     "value": "500-ma"
+    }
+   ]
+  },
+  {
+   "id": 1702,
+   "attributes": [
+    {
+     "name": "Drive Current",
+     "value": "700-ma"
+    }
+   ]
+  }
+ ],
+ "grouped_products": [],
+ "has_options": true,
+ "is_purchasable": true,
+ "is_in_stock": true,
+ "is_on_backorder": true,
+ "low_stock_remaining": 0,
+ "stock_availability": {
+  "text": "Available on back-order",
+  "class": "available-on-backorder"
+ },
+ "sold_individually": false,
+ "weight": "",
+ "dimensions": {
+  "length": "",
+  "width": "",
+  "height": ""
+ },
+ "formatted_weight": "N/A",
+ "formatted_dimensions": "N/A",
+ "add_to_cart": {
+  "text": "Select options",
+  "description": "Select options for &ldquo;RCD-24 DC/DC Led Driver wired&rdquo;",
+  "url": "https://www.cutter.com.au/product/rcd-24-dc-dc-led-driver-wired/",
+  "single_text": "Add to cart",
+  "minimum": 1,
+  "maximum": 9999,
+  "multiple_of": 1
+ },
+ "is_password_protected": false,
+ "extensions": {},
+ "_links": {
+  "self": [
+   {
+    "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products/1696",
+    "targetHints": {
+     "allow": [
+      "GET"
+     ]
+    }
+   }
+  ],
+  "collection": [
+   {
+    "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products"
+   }
+  ],
+  "related": [
+   {
+    "embeddable": true,
+    "href": "https://www.cutter.com.au/wp-json/wc/store/v1/products?related=1696&per_page=10"
+   }
+  ]
+ }
+}

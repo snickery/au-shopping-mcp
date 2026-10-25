@@ -1,0 +1,1411 @@
+{
+   "type" : "productCategorySearchPageWsDTO",
+   "addSiteName" : true,
+   "autoSpellCheck" : false,
+   "breadcrumbs" : [ ],
+   "currentQuery" : {
+      "query" : {
+         "value" : "tv:relevance"
+      },
+      "url" : "/search?q=tv%3Arelevance"
+   },
+   "didYouMean" : false,
+   "facets" : [ {
+      "category" : true,
+      "deliveryFacet" : false,
+      "displayName" : "Category",
+      "multiSelect" : true,
+      "name" : "category",
+      "priority" : 8000,
+      "topValues" : [ {
+         "code" : "cos_21.5.1",
+         "count" : 2,
+         "name" : "Home Theatre & Soundbars",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:category:cos_21.5.1"
+            },
+            "url" : "/search?q=tv%3Arelevance%3Acategory%3Acos_21.5.1"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_11.6.3",
+         "count" : 2,
+         "name" : "Home Theatre Seating",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:category:cos_11.6.3"
+            },
+            "url" : "/search?q=tv%3Arelevance%3Acategory%3Acos_11.6.3"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_21.2",
+         "count" : 2,
+         "name" : "Monitors & Projectors",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:category:cos_21.2"
+            },
+            "url" : "/search?q=tv%3Arelevance%3Acategory%3Acos_21.2"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_21.4",
+         "count" : 3,
+         "name" : "TV Stands & Wall Mounts",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:category:cos_21.4"
+            },
+            "url" : "/search?q=tv%3Arelevance%3Acategory%3Acos_21.4"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_21.1.2",
+         "count" : 66,
+         "name" : "TVs",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:category:cos_21.1.2"
+            },
+            "url" : "/search?q=tv%3Arelevance%3Acategory%3Acos_21.1.2"
+         },
+         "selected" : false
+      } ],
+      "translatable" : false,
+      "values" : [ {
+         "code" : "cos_21.5.1",
+         "count" : 2,
+         "name" : "Home Theatre & Soundbars",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:category:cos_21.5.1"
+            },
+            "url" : "/search?q=tv%3Arelevance%3Acategory%3Acos_21.5.1"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_11.6.3",
+         "count" : 2,
+         "name" : "Home Theatre Seating",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:category:cos_11.6.3"
+            },
+            "url" : "/search?q=tv%3Arelevance%3Acategory%3Acos_11.6.3"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_21.2",
+         "count" : 2,
+         "name" : "Monitors & Projectors",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:category:cos_21.2"
+            },
+            "url" : "/search?q=tv%3Arelevance%3Acategory%3Acos_21.2"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_21.4",
+         "count" : 3,
+         "name" : "TV Stands & Wall Mounts",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:category:cos_21.4"
+            },
+            "url" : "/search?q=tv%3Arelevance%3Acategory%3Acos_21.4"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_21.1.2",
+         "count" : 66,
+         "name" : "TVs",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:category:cos_21.1.2"
+            },
+            "url" : "/search?q=tv%3Arelevance%3Acategory%3Acos_21.1.2"
+         },
+         "selected" : false
+      }, {
+         "code" : "cos_21.1",
+         "count" : 2,
+         "name" : "TVs & Projectors ",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:category:cos_21.1"
+            },
+            "url" : "/search?q=tv%3Arelevance%3Acategory%3Acos_21.1"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : true,
+      "deliveryFacet" : false,
+      "displayName" : "Brand",
+      "multiSelect" : true,
+      "name" : "Brand",
+      "priority" : 7000,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "Bose",
+         "count" : 1,
+         "name" : "Bose",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Brand:Bose"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ABrand%3ABose"
+         },
+         "selected" : false
+      }, {
+         "code" : "Hisense",
+         "count" : 17,
+         "name" : "Hisense",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Brand:Hisense"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ABrand%3AHisense"
+         },
+         "selected" : false
+      }, {
+         "code" : "LG",
+         "count" : 8,
+         "name" : "LG",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Brand:LG"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ABrand%3ALG"
+         },
+         "selected" : false
+      }, {
+         "code" : "SANUS",
+         "count" : 1,
+         "name" : "SANUS",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Brand:SANUS"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ABrand%3ASANUS"
+         },
+         "selected" : false
+      }, {
+         "code" : "SANUS Preferred",
+         "count" : 2,
+         "name" : "SANUS Preferred",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Brand:SANUS+Preferred"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ABrand%3ASANUS%2BPreferred"
+         },
+         "selected" : false
+      }, {
+         "code" : "SONY",
+         "count" : 6,
+         "name" : "SONY",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Brand:SONY"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ABrand%3ASONY"
+         },
+         "selected" : false
+      }, {
+         "code" : "Samsung",
+         "count" : 7,
+         "name" : "Samsung",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Brand:Samsung"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ABrand%3ASamsung"
+         },
+         "selected" : false
+      }, {
+         "code" : "Sony",
+         "count" : 7,
+         "name" : "Sony",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Brand:Sony"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ABrand%3ASony"
+         },
+         "selected" : false
+      }, {
+         "code" : "TCL",
+         "count" : 20,
+         "name" : "TCL",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Brand:TCL"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ABrand%3ATCL"
+         },
+         "selected" : false
+      }, {
+         "code" : "Valencia Theater Seating",
+         "count" : 2,
+         "name" : "Valencia Theater Seating",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Brand:Valencia+Theater+Seating"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ABrand%3AValencia%2BTheater%2BSeating"
+         },
+         "selected" : false
+      }, {
+         "code" : "XGIMI",
+         "count" : 1,
+         "name" : "XGIMI",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Brand:XGIMI"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ABrand%3AXGIMI"
+         },
+         "selected" : false
+      }, {
+         "code" : "mbeat",
+         "count" : 1,
+         "name" : "mbeat",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Brand:mbeat"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ABrand%3Ambeat"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "TV Screen Size",
+      "multiSelect" : true,
+      "name" : "Smart TVs_Screen Size",
+      "priority" : 4000,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "100 Inch",
+         "count" : 2,
+         "name" : "100 Inch",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Size:100+Inch"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Size%3A100%2BInch"
+         },
+         "selected" : false
+      }, {
+         "code" : "32 Inch",
+         "count" : 3,
+         "name" : "32 Inch",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Size:32+Inch"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Size%3A32%2BInch"
+         },
+         "selected" : false
+      }, {
+         "code" : "40 Inch",
+         "count" : 1,
+         "name" : "40 Inch",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Size:40+Inch"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Size%3A40%2BInch"
+         },
+         "selected" : false
+      }, {
+         "code" : "43 Inch",
+         "count" : 7,
+         "name" : "43 Inch",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Size:43+Inch"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Size%3A43%2BInch"
+         },
+         "selected" : false
+      }, {
+         "code" : "43 Inches",
+         "count" : 2,
+         "name" : "43 Inches",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Size:43+Inches"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Size%3A43%2BInches"
+         },
+         "selected" : false
+      }, {
+         "code" : "48 Inch",
+         "count" : 1,
+         "name" : "48 Inch",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Size:48+Inch"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Size%3A48%2BInch"
+         },
+         "selected" : false
+      }, {
+         "code" : "50 Inch",
+         "count" : 6,
+         "name" : "50 Inch",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Size:50+Inch"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Size%3A50%2BInch"
+         },
+         "selected" : false
+      }, {
+         "code" : "50 Inches",
+         "count" : 1,
+         "name" : "50 Inches",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Size:50+Inches"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Size%3A50%2BInches"
+         },
+         "selected" : false
+      }, {
+         "code" : "50-120 Inch",
+         "count" : 1,
+         "name" : "50-120 Inch",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Size:50-120+Inch"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Size%3A50-120%2BInch"
+         },
+         "selected" : false
+      }, {
+         "code" : "55 Inch",
+         "count" : 11,
+         "name" : "55 Inch",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Size:55+Inch"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Size%3A55%2BInch"
+         },
+         "selected" : false
+      }, {
+         "code" : "55 Inches",
+         "count" : 1,
+         "name" : "55 Inches",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Size:55+Inches"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Size%3A55%2BInches"
+         },
+         "selected" : false
+      }, {
+         "code" : "65 Inch",
+         "count" : 11,
+         "name" : "65 Inch",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Size:65+Inch"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Size%3A65%2BInch"
+         },
+         "selected" : false
+      }, {
+         "code" : "65-200 Inch",
+         "count" : 1,
+         "name" : "65-200 Inch",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Size:65-200+Inch"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Size%3A65-200%2BInch"
+         },
+         "selected" : false
+      }, {
+         "code" : "75 Inch",
+         "count" : 6,
+         "name" : "75 Inch",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Size:75+Inch"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Size%3A75%2BInch"
+         },
+         "selected" : false
+      }, {
+         "code" : "85 Inch",
+         "count" : 8,
+         "name" : "85 Inch",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Size:85+Inch"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Size%3A85%2BInch"
+         },
+         "selected" : false
+      }, {
+         "code" : "98 Inch",
+         "count" : 1,
+         "name" : "98 Inch",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Size:98+Inch"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Size%3A98%2BInch"
+         },
+         "selected" : false
+      }, {
+         "code" : "Up To 200 Inch",
+         "count" : 1,
+         "name" : "Up To 200 Inch",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Size:Up+To+200+Inch"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Size%3AUp%2BTo%2B200%2BInch"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "TV Screen Resolution (Pixels)",
+      "multiSelect" : true,
+      "name" : "Smart TVs_Screen Resolution (Pixels)",
+      "priority" : 3005,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "1366 x 768",
+         "count" : 2,
+         "name" : "1366 x 768",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Resolution (Pixels):1366+x+768"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Resolution+%28Pixels%29%3A1366%2Bx%2B768"
+         },
+         "selected" : false
+      }, {
+         "code" : "1920 x 1080",
+         "count" : 2,
+         "name" : "1920 x 1080",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Resolution (Pixels):1920+x+1080"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Resolution+%28Pixels%29%3A1920%2Bx%2B1080"
+         },
+         "selected" : false
+      }, {
+         "code" : "1920x1080",
+         "count" : 1,
+         "name" : "1920x1080",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Resolution (Pixels):1920x1080"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Resolution+%28Pixels%29%3A1920x1080"
+         },
+         "selected" : false
+      }, {
+         "code" : "3840 X 2160",
+         "count" : 1,
+         "name" : "3840 X 2160",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Resolution (Pixels):3840+X+2160"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Resolution+%28Pixels%29%3A3840%2BX%2B2160"
+         },
+         "selected" : false
+      }, {
+         "code" : "3840 x 1920",
+         "count" : 1,
+         "name" : "3840 x 1920",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Resolution (Pixels):3840+x+1920"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Resolution+%28Pixels%29%3A3840%2Bx%2B1920"
+         },
+         "selected" : false
+      }, {
+         "code" : "3840 x 2160",
+         "count" : 49,
+         "name" : "3840 x 2160",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Resolution (Pixels):3840+x+2160"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Resolution+%28Pixels%29%3A3840%2Bx%2B2160"
+         },
+         "selected" : false
+      }, {
+         "code" : "3840 x 2160 pixels",
+         "count" : 6,
+         "name" : "3840 x 2160 pixels",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Resolution (Pixels):3840+x+2160+pixels"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Resolution+%28Pixels%29%3A3840%2Bx%2B2160%2Bpixels"
+         },
+         "selected" : false
+      }, {
+         "code" : "4K Ultra HD 3840 x 2160",
+         "count" : 1,
+         "name" : "4K Ultra HD 3840 x 2160",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Screen Resolution (Pixels):4K+Ultra+HD+3840+x+2160"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Screen+Resolution+%28Pixels%29%3A4K%2BUltra%2BHD%2B3840%2Bx%2B2160"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "Product Type",
+      "multiSelect" : true,
+      "name" : "Speakers_Product Type",
+      "priority" : 3002,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "Bose Solo Soundbar",
+         "count" : 1,
+         "name" : "Bose Solo Soundbar",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Speakers_Product Type:Bose+Solo+Soundbar"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASpeakers_Product+Type%3ABose%2BSolo%2BSoundbar"
+         },
+         "selected" : false
+      }, {
+         "code" : "Sony 2.0 Channel Bluetooth Soundbar",
+         "count" : 1,
+         "name" : "Sony 2.0 Channel Bluetooth Soundbar",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Speakers_Product Type:Sony+2.0+Channel+Bluetooth+Soundbar"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASpeakers_Product+Type%3ASony%2B2.0%2BChannel%2BBluetooth%2BSoundbar"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "Smart TV",
+      "multiSelect" : true,
+      "name" : "Smart TVs_Smart TV",
+      "priority" : 3002,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "Android TV",
+         "count" : 1,
+         "name" : "Android TV",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Smart TV:Android+TV"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Smart+TV%3AAndroid%2BTV"
+         },
+         "selected" : false
+      }, {
+         "code" : "Google TV",
+         "count" : 27,
+         "name" : "Google TV",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Smart TV:Google+TV"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Smart+TV%3AGoogle%2BTV"
+         },
+         "selected" : false
+      }, {
+         "code" : "Google TV ",
+         "count" : 2,
+         "name" : "Google TV ",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Smart TV:Google+TV+"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Smart+TV%3AGoogle%2BTV%2B"
+         },
+         "selected" : false
+      }, {
+         "code" : "Vidaa U7.6",
+         "count" : 1,
+         "name" : "Vidaa U7.6",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Smart TV:Vidaa+U7.6"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Smart+TV%3AVidaa%2BU7.6"
+         },
+         "selected" : false
+      }, {
+         "code" : "Vidaa U8.5",
+         "count" : 1,
+         "name" : "Vidaa U8.5",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Smart TV:Vidaa+U8.5"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Smart+TV%3AVidaa%2BU8.5"
+         },
+         "selected" : false
+      }, {
+         "code" : "Vidaa U9",
+         "count" : 12,
+         "name" : "Vidaa U9",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Smart TV:Vidaa+U9"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Smart+TV%3AVidaa%2BU9"
+         },
+         "selected" : false
+      }, {
+         "code" : "WebOS 26",
+         "count" : 7,
+         "name" : "WebOS 26",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Smart TV:WebOS+26"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Smart+TV%3AWebOS%2B26"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "TV Upscaling",
+      "multiSelect" : true,
+      "name" : "Smart TVs_Upscaling",
+      "priority" : 3001,
+      "translatable" : false,
+      "values" : [ {
+         "code" : " 4K Ultra HD",
+         "count" : 1,
+         "name" : " 4K Ultra HD",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Upscaling:+4K+Ultra+HD"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Upscaling%3A%2B4K%2BUltra%2BHD"
+         },
+         "selected" : false
+      }, {
+         "code" : "4K",
+         "count" : 32,
+         "name" : "4K",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Upscaling:4K"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Upscaling%3A4K"
+         },
+         "selected" : false
+      }, {
+         "code" : "4K UHD",
+         "count" : 1,
+         "name" : "4K UHD",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Upscaling:4K+UHD"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Upscaling%3A4K%2BUHD"
+         },
+         "selected" : false
+      }, {
+         "code" : "4K Ultra HD",
+         "count" : 16,
+         "name" : "4K Ultra HD",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Upscaling:4K+Ultra+HD"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Upscaling%3A4K%2BUltra%2BHD"
+         },
+         "selected" : false
+      }, {
+         "code" : "4K Upscaling",
+         "count" : 1,
+         "name" : "4K Upscaling",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Upscaling:4K+Upscaling"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Upscaling%3A4K%2BUpscaling"
+         },
+         "selected" : false
+      }, {
+         "code" : "Full HD",
+         "count" : 1,
+         "name" : "Full HD",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Upscaling:Full+HD"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Upscaling%3AFull%2BHD"
+         },
+         "selected" : false
+      }, {
+         "code" : "Yes",
+         "count" : 4,
+         "name" : "Yes",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Smart TVs_Upscaling:Yes"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASmart+TVs_Upscaling%3AYes"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "Size",
+      "multiSelect" : true,
+      "name" : "Size",
+      "priority" : 3000,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "43 Inch",
+         "count" : 1,
+         "name" : "43 Inch",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Size:43+Inch"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASize%3A43%2BInch"
+         },
+         "selected" : false
+      }, {
+         "code" : "65 Inch",
+         "count" : 1,
+         "name" : "65 Inch",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Size:65+Inch"
+            },
+            "url" : "/search?q=tv%3Arelevance%3ASize%3A65%2BInch"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "Type",
+      "multiSelect" : true,
+      "name" : "Type",
+      "priority" : -999,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "Direct LED",
+         "count" : 2,
+         "name" : "Direct LED",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Type:Direct+LED"
+            },
+            "url" : "/search?q=tv%3Arelevance%3AType%3ADirect%2BLED"
+         },
+         "selected" : false
+      }, {
+         "code" : "MiniLed",
+         "count" : 2,
+         "name" : "MiniLed",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Type:MiniLed"
+            },
+            "url" : "/search?q=tv%3Arelevance%3AType%3AMiniLed"
+         },
+         "selected" : false
+      }, {
+         "code" : "QLED TV",
+         "count" : 1,
+         "name" : "QLED TV",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Type:QLED+TV"
+            },
+            "url" : "/search?q=tv%3Arelevance%3AType%3AQLED%2BTV"
+         },
+         "selected" : false
+      }, {
+         "code" : "SQD-Mini LED TV 4K UHD",
+         "count" : 1,
+         "name" : "SQD-Mini LED TV 4K UHD",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:Type:SQD-Mini+LED+TV+4K+UHD"
+            },
+            "url" : "/search?q=tv%3Arelevance%3AType%3ASQD-Mini%2BLED%2BTV%2B4K%2BUHD"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "Price",
+      "multiSelect" : true,
+      "name" : "visiblePrice",
+      "priority" : -9000,
+      "translatable" : true,
+      "values" : [ {
+         "code" : "$0 - $499",
+         "count" : 11,
+         "name" : "$0 - $499",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:visiblePrice:%240+-+%24499"
+            },
+            "url" : "/search?q=tv%3Arelevance%3AvisiblePrice%3A%25240%2B-%2B%2524499"
+         },
+         "selected" : false
+      }, {
+         "code" : "$500 - $999",
+         "count" : 18,
+         "name" : "$500 - $999",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:visiblePrice:%24500+-+%24999"
+            },
+            "url" : "/search?q=tv%3Arelevance%3AvisiblePrice%3A%2524500%2B-%2B%2524999"
+         },
+         "selected" : false
+      }, {
+         "code" : "$1000 - $2000",
+         "count" : 29,
+         "name" : "$1000 - $2000",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:visiblePrice:%241000+-+%242000"
+            },
+            "url" : "/search?q=tv%3Arelevance%3AvisiblePrice%3A%25241000%2B-%2B%25242000"
+         },
+         "selected" : false
+      }, {
+         "code" : "$2000 - $3000",
+         "count" : 13,
+         "name" : "$2000 - $3000",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:visiblePrice:%242000+-+%243000"
+            },
+            "url" : "/search?q=tv%3Arelevance%3AvisiblePrice%3A%25242000%2B-%2B%25243000"
+         },
+         "selected" : false
+      }, {
+         "code" : "$3000 - $4000",
+         "count" : 2,
+         "name" : "$3000 - $4000",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:visiblePrice:%243000+-+%244000"
+            },
+            "url" : "/search?q=tv%3Arelevance%3AvisiblePrice%3A%25243000%2B-%2B%25244000"
+         },
+         "selected" : false
+      }, {
+         "code" : "$4000 - $5000",
+         "count" : 2,
+         "name" : "$4000 - $5000",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:visiblePrice:%244000+-+%245000"
+            },
+            "url" : "/search?q=tv%3Arelevance%3AvisiblePrice%3A%25244000%2B-%2B%25245000"
+         },
+         "selected" : false
+      }, {
+         "code" : "$5000+",
+         "count" : 2,
+         "name" : "$5000+",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:visiblePrice:%245000%2B"
+            },
+            "url" : "/search?q=tv%3Arelevance%3AvisiblePrice%3A%25245000%252B"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "Id Verification Required",
+      "multiSelect" : true,
+      "name" : "idVerificationEnabled",
+      "priority" : -9999,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "false",
+         "count" : 77,
+         "name" : "false",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:idVerificationEnabled:false"
+            },
+            "url" : "/search?q=tv%3Arelevance%3AidVerificationEnabled%3Afalse"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "deliveryFacet" : false,
+      "displayName" : "Customer Ratings",
+      "multiSelect" : true,
+      "name" : "bazaarVoiceAverageRatingFacet",
+      "priority" : -9999,
+      "translatable" : false,
+      "values" : [ {
+         "code" : "5",
+         "count" : 14,
+         "name" : "5",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:bazaarVoiceAverageRatingFacet:5"
+            },
+            "url" : "/search?q=tv%3Arelevance%3AbazaarVoiceAverageRatingFacet%3A5"
+         },
+         "selected" : false
+      }, {
+         "code" : "4-5",
+         "count" : 40,
+         "name" : "4-5",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:bazaarVoiceAverageRatingFacet:4-5"
+            },
+            "url" : "/search?q=tv%3Arelevance%3AbazaarVoiceAverageRatingFacet%3A4-5"
+         },
+         "selected" : false
+      }, {
+         "code" : "3-4",
+         "count" : 6,
+         "name" : "3-4",
+         "query" : {
+            "query" : {
+               "value" : "tv:relevance:bazaarVoiceAverageRatingFacet:3-4"
+            },
+            "url" : "/search?q=tv%3Arelevance%3AbazaarVoiceAverageRatingFacet%3A3-4"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   } ],
+   "freeTextSearch" : "tv",
+   "indexSelection" : true,
+   "keywordRedirectUrl" : "/c/cos_21.1.2",
+   "pagination" : {
+      "currentPage" : 0,
+      "pageSize" : 2,
+      "sort" : "relevance",
+      "totalPages" : 39,
+      "totalResults" : 77
+   },
+   "products" : [ {
+      "addToCartFromPLPCategories" : [ {
+         "key" : "Small-Pack-Items",
+         "value" : false
+      }, {
+         "key" : "brands",
+         "value" : true
+      }, {
+         "key" : "cos_21",
+         "value" : true
+      }, {
+         "key" : "costco",
+         "value" : true
+      }, {
+         "key" : "cos_1.1.4",
+         "value" : true
+      }, {
+         "key" : "cos_21.4",
+         "value" : true
+      }, {
+         "key" : "cos_21.1",
+         "value" : true
+      }, {
+         "key" : "cos_1",
+         "value" : true
+      }, {
+         "key" : "SANUS",
+         "value" : false
+      }, {
+         "key" : "cos_1.1",
+         "value" : true
+      } ],
+      "addableToCartFromListingPage" : true,
+      "addonHasPDP" : false,
+      "as400Discount" : false,
+      "availableForPickup" : false,
+      "availableForPreorder" : false,
+      "averageRating" : 4.9,
+      "averageWeight" : "",
+      "basePrice" : {
+         "currencyIso" : "AUD",
+         "formattedPriceForSetOfTwoQuantities" : "$339.98",
+         "formattedValue" : "$169.99",
+         "intValue" : 16999,
+         "priceType" : "BUY",
+         "value" : 169.99
+      },
+      "boostScore" : 0.0,
+      "businessDelivery" : false,
+      "buyNowEnabled" : false,
+      "code" : "100087",
+      "couponDiscount" : {
+         "discountType" : "default",
+         "hideDiscountCalculation" : false
+      },
+      "departmentNumber" : "",
+      "description" : "<div class=\"product-details-wrapper-au\">\n<div class=\"product-tag\">\n<div>\n<h5 class=\"product-tag-keyword\">TV Size</h5>\n</div>\n\n<div>\n<p class=\"product-tag-dsc\">32 - 65 Inch</p>\n</div>\n</div>\n\n<div class=\"product-tag\">\n<div>\n<h5 class=\"product-tag-keyword\">Capacity</h5>\n</div>\n\n<div>\n<p class=\"product-tag-dsc\">Up to 27kg</p>\n</div>\n</div>\n\n<div class=\"product-tag\">\n<div>\n<h5 class=\"product-tag-keyword\">Height</h5>\n</div>\n\n<div>\n<p class=\"product-tag-dsc\">Adjust up to 8&quot;</p>\n</div>\n</div>\n\n<div class=\"product-tag\">\n<div>\n<h5 class=\"product-tag-keyword\">Swivel</h5>\n</div>\n\n<div>\n<p class=\"product-tag-dsc\">20&deg; / -20&deg;</p>\n</div>\n</div>\n\n<div class=\"product-tag\">\n<div>\n<h5 class=\"product-tag-keyword\">Roll</h5>\n</div>\n\n<div>\n<p class=\"product-tag-dsc\">3&deg; / -3&deg;</p>\n</div>\n</div>\n\n<div class=\"product-tag\">\n<div>\n<h5 class=\"product-tag-keyword\">Brand</h5>\n</div>\n\n<div>\n<p class=\"product-tag-dsc\">SANUS Simplicity</p>\n</div>\n</div>\n\n<div class=\"product-tag\">\n<div>\n<h5 class=\"product-tag-keyword\">Model</h5>\n</div>\n\n<div>\n<p class=\"product-tag-dsc\">SSTV2-B1</p>\n</div>\n</div>\n\n<div class=\"product-tag\">\n<div>\n<h5 class=\"product-tag-keyword\">Colour</h5>\n</div>\n\n<div>\n<p class=\"product-tag-dsc\">Black</p>\n</div>\n</div>\n\n<div class=\"clearboth\">&nbsp;</div>\n\n<div class=\"product-detail-dsc-wrapper\">\n<div class=\"product-detail-title-wrapper\">\n<h5 class=\"product-detail-title\">Description</h5>\n</div>\n\n<div class=\"product-detail-dsc\">This Swivelling TV Base is a tabletop TV base that recreates the sleek look and feel of a mounted TV. The swivelling TV Base provides up to 8 inches of height adjustability creating space to fit a sound bar below your TV.<br />\n<br />\nTV not included</div>\n\n<div class=\"clearboth\">&nbsp;</div>\n</div>\n</div>\n",
+      "displayExVatPrice" : false,
+      "displayShippingIncludedTag" : false,
+      "englishName" : "SANUS Swivel TV Stand SSTV2-B1",
+      "excludePaymentPlan" : false,
+      "expeditedDelivery" : false,
+      "groupId" : "default-cartgroup-australia",
+      "hasOtherOptionsVariants" : false,
+      "hasPricePerUnit" : false,
+      "hidePriceValue" : false,
+      "idVerificationEnabled" : false,
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h33/h74/46802467127326.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h05/h19/46802466340894.jpg"
+      }, {
+         "format" : "results",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h6a/h0b/46802466603038.jpg"
+      }, {
+         "format" : "carousel",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h6a/h0b/46802466603038.jpg"
+      }, {
+         "format" : "thumbnail-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h2d/h87/79646318690334.webp"
+      }, {
+         "format" : "product-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/ha9/h6d/79646319083550.webp"
+      }, {
+         "format" : "results-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h6d/hb7/79646319280158.webp"
+      }, {
+         "format" : "carousel-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h6d/hb7/79646319280158.webp"
+      } ],
+      "inMyWishlist" : false,
+      "inRestrictedZone" : false,
+      "ineligibleToLeaveUnattended" : false,
+      "isBaseProduct" : false,
+      "isExternalVendorProduct" : false,
+      "isExternalVendorVariantProduct" : false,
+      "isProductAvailable" : false,
+      "lexicalScore" : 30.03646,
+      "maxOrderQuantity" : 825,
+      "maxOrderQuantityMode" : "PER_ORDER",
+      "maxOrderQuantityPerDateRange" : 0,
+      "membership" : false,
+      "membershipRestrictionApplied" : false,
+      "minOrderQuantity" : 1,
+      "minimumVerificationAge" : 0,
+      "modulusItemQuantity" : 1,
+      "multiProduct" : false,
+      "name" : "SANUS Swivel TV Stand SSTV2-B1",
+      "nameInSelectedLanguage" : "SANUS Swivel TV Stand SSTV2-B1",
+      "normalizedLexicalScore" : 1.4776487,
+      "normalizedVectorScore" : 0.8460003,
+      "numberOfReviews" : 8,
+      "overlayRequired" : false,
+      "potentialPromotions" : [ ],
+      "price" : {
+         "currencyIso" : "AUD",
+         "formattedPriceForSetOfTwoQuantities" : "$339.98",
+         "formattedValue" : "$169.99",
+         "intValue" : 16999,
+         "priceType" : "BUY",
+         "value" : 169.99
+      },
+      "priceRange" : {
+      },
+      "productCartGroupAvailableInWarehouse" : false,
+      "purchasable" : true,
+      "randomWeight" : false,
+      "requiresAgeVerification" : false,
+      "restricted" : false,
+      "rollingTimePeriod" : 0,
+      "score" : 2.323649,
+      "shippingIncluded" : true,
+      "shippingPurchaseMethodExceptionMessage" : "",
+      "shippingRestrictionApplied" : false,
+      "showEnergyRating" : false,
+      "showEstimatedDeliveryDate" : false,
+      "soldIndividually" : true,
+      "stock" : {
+         "contactDay" : 0,
+         "deliveryLeadTime" : 0,
+         "stockLevelStatus" : "inStock"
+      },
+      "tire" : false,
+      "url" : "/Electronics/TVs-Projectors/TV-Stands-Wall-Mounts/SANUS-Swivel-TV-Stand-SSTV2-B1/p/100087",
+      "validExVatData" : true,
+      "vectorScore" : 0.8460003,
+      "volumePricesFlag" : false,
+      "warehouseFulfilled" : false,
+      "warehouseHidePriceValue" : false,
+      "warehousePickupOnly" : false
+   }, {
+      "addToCartFromPLPCategories" : [ {
+         "key" : "brands",
+         "value" : true
+      }, {
+         "key" : "hot-buys",
+         "value" : true
+      }, {
+         "key" : "Large-Pack-Items",
+         "value" : false
+      }, {
+         "key" : "cos_21",
+         "value" : true
+      }, {
+         "key" : "costco",
+         "value" : true
+      }, {
+         "key" : "cos_21.1.2",
+         "value" : true
+      }, {
+         "key" : "TCL",
+         "value" : true
+      }, {
+         "key" : "cos_21.1",
+         "value" : true
+      } ],
+      "addableToCartFromListingPage" : true,
+      "addonHasPDP" : false,
+      "as400Discount" : false,
+      "availableForPickup" : false,
+      "availableForPreorder" : false,
+      "averageRating" : 4.2,
+      "averageWeight" : "",
+      "basePrice" : {
+         "currencyIso" : "AUD",
+         "formattedPriceForSetOfTwoQuantities" : "$599.98",
+         "formattedValue" : "$299.99",
+         "intValue" : 29999,
+         "priceType" : "BUY",
+         "value" : 299.99
+      },
+      "boostScore" : 0.0,
+      "businessDelivery" : false,
+      "buyNowEnabled" : false,
+      "code" : "2026106",
+      "couponDiscount" : {
+         "discountEndDate" : "2026-09-16T13:59:59.999Z",
+         "discountStartDate" : "2026-09-02T14:00:00.000Z",
+         "discountType" : "default",
+         "discountValue" : 50.0,
+         "discountValueExcVat" : 45.45,
+         "formattedDiscountExcVatWithMinQty" : "$0.00",
+         "formattedDiscountValue" : "$50.00",
+         "formattedDiscountValueExcVat" : "$45.45",
+         "formattedDiscountWithMinQty" : "$0.00",
+         "formattedPriceWithMinQty" : "$0.00",
+         "hideDiscountCalculation" : false,
+         "maxQtyDiscount" : 0,
+         "minQtyDiscount" : 0
+      },
+      "decalData" : [ {
+         "key" : "1",
+         "value" : {
+            "altText" : "Hot Buy",
+            "position" : 1,
+            "type" : "DECAL",
+            "url" : "/mediapermalink/AU-decal-hot-buy"
+         }
+      } ],
+      "departmentNumber" : "",
+      "description" : "<div class=\"product-details-wrapper-au\"> <div class=\"product-details-wrapper-au\"><div class=\"product-tag\"> <div> <h5 class=\"product-tag-keyword\">Screen Type</h5> </div> <div> <p class=\"product-tag-dsc\">QLED FHD TV</p> </div> </div><div class=\"product-tag\"> <div> <h5 class=\"product-tag-keyword\">Smart TV</h5> </div> <div> <p class=\"product-tag-dsc\">Android TV</p> </div> </div><div class=\"product-tag\"> <div> <h5 class=\"product-tag-keyword\">Picture Modes</h5> </div> <div> <p class=\"product-tag-dsc\">HDR</p> </div> </div><div class=\"product-tag\"> <div> <h5 class=\"product-tag-keyword\">Refresh Rate</h5> </div> <div> <p class=\"product-tag-dsc\">60Hz</p> </div> </div></div> <div class=\"product-detail-dsc-wrapper\"> <div class=\"product-detail-title-wrapper\"> <h5 class=\"product-detail-title\">Description</h5> </div> <div class=\"product-detail-dsc\"> <h2>TCL 32 Inch QLED FHD TV 32S5K</h2> Compact in size, big on performance — the TCL 32 S5K delivers vibrant QLED color and smart entertainment in Full HD clarity. Perfect for bedrooms, kitchens, or small spaces, it brings your favorite content to life with Android TV and hands-free voice control. </div> <div class=\"clearboth\"></div> </div> <div class=\"dms-contents-wrapper\" > <div class=\"dms-wrapper-box\"> <div class=\"product-detail-title\">Package size</div> <div class=\"dms-container-box\"> <div class=\"dms-mobile-img\"><img class=\"dms-icon\" src=\"/mediapermalink/pdp-dimension-box-type2\" /></div> <div class=\"dms-mobile-size\"> <div class=\"dms-dsc-wrapper\"><div class=\"number-box\">1</div><div class=\"dms-dsc\">485</div></div> <div class=\"dms-dsc-wrapper\"><div class=\"number-box\">2</div><div class=\"dms-dsc\">766</div></div> <div class=\"dms-dsc-wrapper\"><div class=\"number-box\">3</div><div class=\"dms-dsc\">101</div></div> </div></div></div> <div class=\"dms-divider\"></div> <div class=\"dms-wrapper-product\"> <div class=\"product-detail-title\">Product size</div> <div class=\"dms-container-product\"> <div class=\"dms-mobile-img\"><img class=\"dms-icon-1\" src=\"/mediapermalink/pdp-dimension-tv-monitor-style1-1-1\" /></div> <div class=\"dms-mobile-size\"> <div class=\"dms-dsc-wrapper\"><div class=\"number-product\">a</div><div class=\"dms-dsc\">715</div></div> <div class=\"dms-dsc-wrapper\"><div class=\"number-product\">b</div><div class=\"dms-dsc\">422</div></div> </div></div> <div class=\"dms-container-product\"> <div class=\"dms-mobile-img\"><img class=\"dms-icon-1\" src=\"/mediapermalink/pdp-dimension-tv-monitor-style1-1-2\" /></div> <div class=\"dms-mobile-size\"> <div class=\"dms-dsc-wrapper\"><div class=\"number-product\">c</div><div class=\"dms-dsc\">79.96</div></div> <div class=\"dms-dsc-wrapper\"><div class=\"number-product\">d</div><div class=\"dms-dsc\">73</div></div> </div></div> <div class=\"dms-container-product\"> <div class=\"dms-mobile-img\"><img class=\"dms-icon-1\" src=\"/mediapermalink/pdp-dimension-tv-monitor-style1-1-3\" /></div> <div class=\"dms-mobile-size\"> <div class=\"dms-dsc-wrapper\"><div class=\"number-product\">e</div><div class=\"dms-dsc\">180</div></div> </div></div></div> <div class=\"clearboth\"></div> </div> </div>",
+      "discountEndDate" : "2026-09-16T13:59:59.999Z",
+      "discountPrice" : {
+         "currencyIso" : "AUD",
+         "formattedValue" : "$50.00",
+         "intValue" : 5000,
+         "priceType" : "BUY",
+         "value" : 50.00
+      },
+      "discountStartDate" : "2026-09-02T14:00:00.000Z",
+      "displayExVatPrice" : false,
+      "displayShippingIncludedTag" : false,
+      "englishName" : "TCL 32 Inch QLED FHD TV 32S5K",
+      "excludePaymentPlan" : false,
+      "expeditedDelivery" : false,
+      "groupId" : "default-cartgroup-australia",
+      "hasOtherOptionsVariants" : false,
+      "hasPricePerUnit" : false,
+      "hidePriceValue" : false,
+      "idVerificationEnabled" : false,
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h81/h85/470712614027294.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h39/h54/470712546885662.jpg"
+      }, {
+         "format" : "results",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/hb3/h68/470712612880414.jpg"
+      }, {
+         "format" : "carousel",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/hb3/h68/470712612880414.jpg"
+      }, {
+         "format" : "thumbnail-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/hfc/h35/470712614813726.webp"
+      }, {
+         "format" : "product-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h21/hd2/470712615272478.webp"
+      }, {
+         "format" : "results-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h51/h89/470712615600158.webp"
+      }, {
+         "format" : "carousel-webp",
+         "imageType" : "PRIMARY",
+         "url" : "/medias/sys_master/images/h51/h89/470712615600158.webp"
+      } ],
+      "inMyWishlist" : false,
+      "inRestrictedZone" : false,
+      "ineligibleToLeaveUnattended" : false,
+      "isBaseProduct" : false,
+      "isExternalVendorProduct" : false,
+      "isExternalVendorVariantProduct" : false,
+      "isProductAvailable" : false,
+      "lexicalScore" : 28.32,
+      "maxOrderQuantity" : 825,
+      "maxOrderQuantityMode" : "PER_ORDER",
+      "maxOrderQuantityPerDateRange" : 0,
+      "membership" : false,
+      "membershipRestrictionApplied" : false,
+      "minOrderQuantity" : 1,
+      "minimumVerificationAge" : 0,
+      "modulusItemQuantity" : 1,
+      "multiProduct" : false,
+      "name" : "TCL 32 Inch QLED FHD TV 32S5K",
+      "nameInSelectedLanguage" : "TCL 32 Inch QLED FHD TV 32S5K",
+      "normalizedLexicalScore" : 1.4520932,
+      "normalizedVectorScore" : 0.8073461,
+      "numberOfReviews" : 5,
+      "overlayRequired" : false,
+      "pillData" : [ ],
+      "potentialPromotions" : [ ],
+      "price" : {
+         "currencyIso" : "AUD",
+         "formattedPriceForSetOfTwoQuantities" : "$499.98",
+         "formattedValue" : "$249.99",
+         "intValue" : 24999,
+         "priceType" : "BUY",
+         "value" : 249.99
+      },
+      "priceRange" : {
+      },
+      "productCartGroupAvailableInWarehouse" : false,
+      "purchasable" : true,
+      "randomWeight" : false,
+      "requiresAgeVerification" : false,
+      "restricted" : false,
+      "rollingTimePeriod" : 0,
+      "score" : 2.2594395,
+      "shippingIncluded" : true,
+      "shippingPurchaseMethodExceptionMessage" : "",
+      "shippingRestrictionApplied" : false,
+      "showEnergyRating" : false,
+      "showEstimatedDeliveryDate" : false,
+      "soldIndividually" : true,
+      "stock" : {
+         "contactDay" : 0,
+         "deliveryLeadTime" : 0,
+         "stockLevelStatus" : "inStock"
+      },
+      "summary" : "<div class=\"pdp-cards\">\n  <div class=\"grey-card-detail\">\n    <div class=\"pdp-light-blue-title\"><span style=\"font-weight: 700;\">Included in our price</span></div>\n    <ul class=\"grey-card-detail-grid\">\n      <li><span class=\"pdp-icon pdp-icon-warranty\"></span>Minimum 1-Year Warranty</li>\n      <li><span class=\"pdp-icon pdp-icon-returns-fy24\"></span>90 Day Returns*</li>\n      <li><span class=\"pdp-icon pdp-icon-delivery-and-setup-fy24\"></span>Room of Choice*</li>\n      <li><span class=\"pdp-icon pdp-icon-Exec-Card\"></span>2% Annual Reward**</li>\n    </ul>\n    <div class=\"grey-card-detail-disclaimer margin-top-1\">*We allow 90-day change of mind returns on electronic goods. Delivery is available into your room of choice. Unboxing and installation is not part of this service. Online purchases only. Delivery excludes some areas. **With an Executive Membership. Terms and conditions apply.</div>\n  </div>\n</div>",
+      "tire" : false,
+      "url" : "/c/TCL-32-Inch-QLED-FHD-TV-32S5K/p/2026106",
+      "validExVatData" : true,
+      "vectorScore" : 0.8073461,
+      "volumePricesFlag" : false,
+      "warehouseFulfilled" : false,
+      "warehouseHidePriceValue" : false,
+      "warehousePickupOnly" : false
+   } ],
+   "sorts" : [ {
+      "code" : "relevance",
+      "name" : "Relevance",
+      "selected" : true
+   }, {
+      "code" : "name-asc",
+      "name" : "Name (A-Z)",
+      "selected" : false
+   }, {
+      "code" : "name-desc",
+      "name" : "Name (Z-A)",
+      "selected" : false
+   }, {
+      "code" : "price-asc",
+      "name" : "Price (Low to High)",
+      "selected" : false
+   }, {
+      "code" : "price-desc",
+      "name" : "Price (High to Low)",
+      "selected" : false
+   }, {
+      "code" : "sellCount-desc",
+      "name" : "Top Sellers",
+      "selected" : false
+   }, {
+      "code" : "ratings-desc",
+      "name" : "Top Rated",
+      "selected" : false
+   } ]
+}
